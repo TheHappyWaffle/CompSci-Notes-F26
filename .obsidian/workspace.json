@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures 1/Discrete Structures Week 1.md",
-                "mode": "preview",
+                "file": "Discrete Structures I/Structures Week 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Structures Week 1"
+              "title": "Structures Week 1"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "328c08b35e050386",
@@ -169,8 +169,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "139cbf7f1576d26b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -189,11 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1e9e2813749f8ba",
+  "active": "c9049b9a03085a11",
   "lastOpenFiles": [
-    "Ethichs Week 1.md",
-    "Discrete Structures 1/Discrete Structures Week 1.md",
+    "Discrete Structures I/Commonly used sets.md",
+    "Discrete Structures I/Structures Week 1.md",
     "Ethics/Ethics Week 1.md",
+    "Programming I/How to connect to Linux SSH Server.md",
+    "Programming I",
+    "Programming l",
+    "Statistics I",
+    "Discrete Structures I",
+    "Discrete Structures 1/Discrete Structures Week 1.md",
+    "Discrete Structures 1/Commonly used sets.md",
+    "Ethichs Week 1.md",
     "Welcome.md",
     "Programming 1",
     "Statistics 1",

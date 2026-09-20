@@ -1,0 +1,65 @@
+- **<u>Set</u>**: An unordered collection of objects, denoted by “{A}”
+	- The elements of two sets do not need to be in the same order for them to be equal to each other
+	- A set with no elements is the empty set, denoted by “Ø” or “{ }”
+		- The cardinality of an empty set is always 0
+		- An empty set is a subset of any existing set
+		- {Ø} ≠ 0
+- **<u>Database</u>**: relations are just sets of properties
+- **<u>Graph</u>**: sets of vertices and sets of edges
+- **<u>Function:</u>** A relation between a set of inputs (domain) and a set of outputs (codomain)
+- **<u>Element</u>**: An item within a set, denoted by “x ∈ A”
+	- x ∊ A, means a is an element of A
+	- z ∉ A, means a is not and element of A
+- **<u>Subset</u>**: A set where every element within is present within another set, denoted by “A ⊆ B”
+	- {A} is not a subset of B, but A is a subset of B.  Think of it like a structure containing a structure for {A}
+- **<u>Proper Subset</u>**: A subset where A ≠ B, denoted by “A ⊂ B”
+	- For example, if A = {1,2,3} and B = {1,2,3} and C = {1,2} then B would not be a proper subset of A, since A = B.  However C would be a proper subset of A since C ≠ A
+- **<u>Cardinality</u>**: The amount of distinct elements within a set, denoted by “|{A}|”
+	- For example, the cardinality of {1,1,1,2,3,4} would be 4
+- **[[Commonly used sets]]:**
+	- Z = {..., -2,-1,0,1,2,...} every integer
+	- Z+/- = {1,2,3,...} every positive/negative integer
+	- N = {0,1,2,3,...} every non negative integer
+	- Q = Can be written as a fraction using only whole numbers (rational numbers)
+	- R = Every number
+- **<u>We can define a set using set builder notation:</u>**
+	- S1 = {x ∈ N | x < 10} = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+	- S3 = {x ∈ Z | x is a multiple of 3} = {. . . , −9, −6, −3, 0, 3, 6, 9, . . .}
+	- S4 = {x ∈ N | x < 0} = { } = ∅
+- **<u>Power Set:</u>** A set containing every subset of a set, denoted by “P(S)”
+	- The power set of S = {3, 4, 5} would be: 
+	- P(S) = { ∅, {3}, {4}, {5}, {3, 4}, {3, 5}, {4, 5}, {3, 4, 5} }
+	- The cardinality of a power set can be found with 2^x where ‘x’ is the cardinality of the original set
+- **<u>Intersection:</u>** The set of elements that are elements in two given sets, denoted by “A ∩ B”
+	- For example, if A = {1,3,9} and B = {1,3,10,11} then A ∩ B = {1,3}
+	- Can also apply to infinite sets, for example if A contained every integer multiple of 2 and B contained every integer multiple of 3, then A ∩ B would contain every integer multiple of 6
+- **<u>Union:</u>** A set of all elements present within two sets, denoted by “A ∪ B”
+	- For example, if A = {1,2,3,4,4,4} and B = {5,6,7,6,7} then A ∪ B = {1,2,3,4,5,6,7}
+- **<u>Disjoint:</u>** A disjoint occurs when there are no common elements between sets (A ∩ B = ∅)
+- **<u>Difference:</u>** A - B is the set containing all elements that are in A but not B
+	- For example, if A = {1,2,3} and B = {3,4,5} then the difference would be: {1,2}
+- **<u>Symmetric Difference:</u>** The set containing every element that <u>isn't</u> present in <u>both</u> A and B, denoted by "A ⊕ B"
+	- For example, if A = {1,2,3} and B = {2,3,4,5,6}, then the symmetric difference would be: {1,4,5,6}
+- **<u>Ordered Pair:</u>** An ordered pair of two items is written (x, y).  Using brackets indicates that the order of the two items is important
+- **<u>Cartesian Product:</u>** (A x B) The set of all ordered pairs (a, b) where a ∈ A and b ∈ B.
+	- For example, if A = {0, 1, 2} and B = {a, b}, then:
+		- A x B = {(0, a), (0, b), (1, a), (1, b), (2, a), (2, b)}
+		- B x A = {(a, 0), (a, 1), (a, 2), (b, 0), (b, 1), (b, 2)}
+	- There are two cases when A × B = B × A:  
+		- if A = B
+		- if either A or B is equal to ∅: A × ∅ = ∅ × B = ∅.
+	- The cardinality of a set of cartesian products (|A x B|) is equal to |A| x |B|
+		- So if 'A' had a cardinality of 3, and 'B' had a cardinality of 2, then 'A x B' would have a cardinality of 6
+- **<u>Partition:</u>** A non-empty set 'A', is a collection of non-empty subsets of 'A' such that each element of 'A' is in exactly one of the subsets
+	- For example, A1, A2, . . . , An is a partition of A if all the following conditions hold:
+		- Every set must be a subset of A
+		- Every set must not be an empty set
+		- A1, A2, . . . , An, must be a pairwise-disjoint
+		- A must be equal to the union of A1, A2, . . . , An
+- **<u>Pairwise-Disjoint:</u>** Given a sequence of n sets, A1, A2, . . . , An, a pairwise disjoint occurs if every pair of distinct sets is disjoint
+- **<u>Compliment:</u>** The Universal set containing everything that is not in the given set.  Given A, it can be denoted by U - A or Ā.  The universal set must be clearly defined like any other set in order to find the compliment
+	- For example, if the universal set is every integer, and A contains every odd number, then the compliment to A would be every even number
+	- Or maybe 'A' could be defined as the set of every even number but the universal set is not given, you could assume that the compliment would be every odd number in that case
+- <u>n-tuples:</u> An ordered list of items is called an ordered-triple, anything more than 3 is referred to as an ordered n-tuple (or just n-tuple).  
+	- For example, (1,2,3,4) would be referred to as a 4-tuple
+	- The cartesian product of n sets contains n-tuples
