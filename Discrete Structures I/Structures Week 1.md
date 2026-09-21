@@ -6,7 +6,7 @@
 		- {Ø} ≠ 0
 - **<u>Database</u>**: relations are just sets of properties
 - **<u>Graph</u>**: sets of vertices and sets of edges
-- **<u>Function:</u>** A relation between a set of inputs (domain) and a set of outputs (codomain)
+- **<u>Function:</u>** A relation between a set of inputs (domain) and a set of outputs (co-domain)
 - **<u>Element</u>**: An item within a set, denoted by “$x ∈ A$”
 	- $x ∊ A$, means a is an element of $A$
 	- $z ∉ A$, means a is not and element of $A$
@@ -62,9 +62,9 @@
 	- Or maybe $A$ could be defined as the set of every even number but the universal set is not given, you could assume that the compliment would be every odd number in that case
 - <u>n-tuples:</u> An ordered list of 3 items is called an ordered-triple, anything more than 3 is referred to as an ordered n-tuple (or just n-tuple).  
 	- For example, (1,2,3,4) would be referred to as a 4-tuple
-	- The cartesian product of n sets contains n-tuples
+	- The Cartesian product of n sets contains n-tuples
 - **<u>Strings:</u>** If a set contains symbols or characters, it can be written without brackets or commas used for n-tuples
 	- For example, given $A$ = {x,y}, the set $A^2$ is {xx, xy, yx, yy}
 		- The length of the string is how many characters are in the string, so for the above example the length would be 8
 	- An <u>empty string</u> is a string with a length of 0, usually denoted by $λ$
-- **<u>Concatenated:</u>** The joining of 2 sets, for example if $S$ = 3542 then 6s would be 63542
+- **<u>Concatenated:</u>** The joining of 2 sets, for example if $S$ = 3542 then 6$S$ would be 63542

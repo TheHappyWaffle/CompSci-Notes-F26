@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +201,8 @@
   },
   "active": "c9049b9a03085a11",
   "lastOpenFiles": [
-    "Discrete Structures I/Commonly used sets.md",
     "Discrete Structures I/Structures Week 1.md",
+    "Discrete Structures I/Commonly used sets.md",
     "Programming I/How to connect to Linux SSH Server.md",
     "Ethics/Ethics Week 1.md",
     "Programming I",
