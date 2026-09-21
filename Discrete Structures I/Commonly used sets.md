@@ -1,5 +1,5 @@
-- Z = {..., -2,-1,0,1,2,...} every integer
-- Z+/- = {1,2,3,...} every positive/negative integer
-- N = {0,1,2,3,...} every non negative integer
-- Q = Can be written as a fraction using only whole numbers (rational numbers)
-- R = Every number, both whole and fractional (every real number)
+- $Z$ = {..., -2,-1,0,1,2,...} every integer
+- $Z$+/- = {1,2,3,...} every positive/negative integer
+- $N$ = {0,1,2,3,...} every non negative integer
+- $Q$ = Can be written as a fraction using only whole numbers (rational numbers)
+- $R$ = Every number, both whole and fractional (every real number)
