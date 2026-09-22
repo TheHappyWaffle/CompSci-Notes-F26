@@ -13,15 +13,184 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures I/Structures Week 1.md",
+                "file": "Tasks/Week 1 - Sep 14 to Sep 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structures Week 1"
+              "title": "Week 1 - Sep 14 to Sep 20"
+            }
+          },
+          {
+            "id": "57c558bc61d29a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 2 - Sep 21 to Sep 27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 2 - Sep 21 to Sep 27"
+            }
+          },
+          {
+            "id": "fdfb837a2202ac59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 3 - Sep 28 to Oct 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Sep 28 to Oct 4"
+            }
+          },
+          {
+            "id": "37fafcb59960b6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 10 - Nov 16 to Nov 22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 10 - Nov 16 to Nov 22"
+            }
+          },
+          {
+            "id": "3e588081cc6dcdff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 9 - Nov 9 to Nov 15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 9 - Nov 9 to Nov 15"
+            }
+          },
+          {
+            "id": "2efd55a8f6c4a767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 8 - Nov 2 to Nov 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 8 - Nov 2 to Nov 8"
+            }
+          },
+          {
+            "id": "6941e6ff8b381f8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 4 - Oct 5 to Oct 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 4 - Oct 5 to Oct 11"
+            }
+          },
+          {
+            "id": "92c7c592b61f256b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 7 - Oct 26 to Nov 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 7 - Oct 26 to Nov 1"
+            }
+          },
+          {
+            "id": "1f24e5a2f23ba835",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 5 - Oct 12 to Oct 18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 5 - Oct 12 to Oct 18"
+            }
+          },
+          {
+            "id": "8b86573c48cada27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 3 - Sep 28 to Oct 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 3 - Sep 28 to Oct 4"
+            }
+          },
+          {
+            "id": "e054489c9367d757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures I/Commonly used sets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commonly used sets"
+            }
+          },
+          {
+            "id": "cac804763641914f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 11 - Nov 23 to Nov 29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 11 - Nov 23 to Nov 29"
+            }
+          },
+          {
+            "id": "a380fa2974f5e8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/Week 5 - Oct 12 to Oct 18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 5 - Oct 12 to Oct 18"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -199,25 +368,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9049b9a03085a11",
+  "active": "e054489c9367d757",
   "lastOpenFiles": [
+    "Tasks/Week 6 - Oct 19 to Oct 25.md",
     "Discrete Structures I/Structures Week 1.md",
+    "Tasks/Week 2 - Sep 21 to Sep 27.md",
+    "Tasks/Week 3 - Sep 28 to Oct 4.md",
+    "Tasks/Week 1 - Sep 14 to Sep 20.md",
+    "Tasks/Week 11 - Nov 23 to Nov 29.md",
+    "Tasks/Week 12 - Nov 30 to Dec 6.md",
+    "Tasks/Week 10 - Nov 16 to Nov 22.md",
+    "Tasks/Week 9 - Nov 9 to Nov 15.md",
+    "Tasks/Week 7 - Oct 26 to Nov 1.md",
+    "Tasks/Week 8 - Nov 2 to Nov 8.md",
+    "Tasks/Week 4 - Oct 5 to Oct 11.md",
+    "Tasks/Week 5 - Oct 12 to Oct 18.md",
     "Discrete Structures I/Commonly used sets.md",
+    "Untitled 8",
+    "Untitled 7",
+    "Untitled 6",
+    "Untitled 5",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
+    "Tasks",
     "Programming I/How to connect to Linux SSH Server.md",
     "Ethics/Ethics Week 1.md",
-    "Programming I",
-    "Programming l",
-    "Statistics I",
-    "Discrete Structures I",
     "Discrete Structures 1/Discrete Structures Week 1.md",
     "Discrete Structures 1/Commonly used sets.md",
     "Ethichs Week 1.md",
     "Welcome.md",
-    "Programming 1",
-    "Statistics 1",
-    "War & Society",
-    "Ethics",
-    "Discrete Structures 1",
     "create a link.md"
   ]
 }
