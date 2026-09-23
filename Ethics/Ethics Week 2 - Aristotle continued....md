@@ -15,4 +15,15 @@
 		and his vice apathy” (84)
 	- So in the road rage incident, don't just brush it off and pretend it didn't happen, that's sloth or apathy.  Express your anger but do not escalate or make the situation worse.  Being a virtuous person means you know how to do it and how to do it well
 
-- Work on the urge to over react or under react in situations.  Practice makes perfect, through trial and error you can become a virtuous person
+- Work on the urge to over react or under react in situations.  Practice makes perfect, through trial and error you can become a virtuous person.  Perfectly landing in the middle of over reacting or under reacting is what Aristotle calls "**the mean**" which falls right between excess and deficiency
+
+- <u>Intrinsic Good:</u> Something that's good in of it's self- and not for what it can get you.  Like love or the study of philosophy
+
+- <u>Extrensic Good:</u> The same thing as an instrumental good, it's only good for the sake of seeking a higher intrinsic good.  Like money
+
+- Aristotle believes wisdom is the most virtuous of activities as it is self sustaining and he believes in ultimately leads to the highest good 
+
+- <u>Free Will:</u>
+	- <u>Determinism</u> - Every event has a cause back to the very beginning of time.  We can't be blamed for what we do since everything has cause and effect
+	- <u>Voluntarism</u> - We rise against causality and determinism because everything is voluntary
+	- <u>Compatibilism</u> - Voluntarism and determinism are compatibilism, voluntarism does not mean a lack of causality.  This is also what Aristotle believes in
