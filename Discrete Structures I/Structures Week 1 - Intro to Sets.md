@@ -50,6 +50,7 @@
 		- if either $A$ or $B$ is equal to ∅: $A$ × ∅ = ∅ × $B$ = ∅.
 	- The cardinality of a set of cartesian products (|$A$ x $B$|) is equal to |$A$| x |$B$|
 		- So if $A$ had a cardinality of 3, and $B$ had a cardinality of 2, then $A$ x $B$ would have a cardinality of 6
+	- The Cartesian product of an empty set is always equal to the empty set
 - **<u>Partition:</u>** A non-empty set $A$, is a collection of non-empty subsets of $A$ such that each element of $A$ is in exactly one of the subsets
 	- For example, $A1$, $A2$, . . . , $An$ is a partition of $A$ if all the following conditions hold:
 		- Every set must be a subset of $A$

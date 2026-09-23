@@ -45,6 +45,6 @@
 		- Virtues requires us to know what we're doing, we can't do a 'good' action thoughtlessly or accidentally.  You have to know what you're doing and that it's the right thing to do
 		- We cannot go about doing these acts simply for praise or approval or some other ulterior motive, it has to be for it's own sake
 		- It's never just what you do, it's how and why you do it
-		- The virtues have to be expressed in moderation, don't just give everything you have to charity.  This is otherwise known as the <u>Goldilocks Formula</u>
+		- The virtues have to be expressed in moderation, don't just give everything you have to charity.  This is otherwise known as the [[Goldilocks Formula]]
 		- "to experience all of this at the right time, toward the right objects, toward the right people, for the right reason, and in the right manner- that is the median and the best course, the course that is a mark of virtue" (82)
 		- So virtue is a tendency to act in a certain way in any given situation in a balanced and appropriate manner

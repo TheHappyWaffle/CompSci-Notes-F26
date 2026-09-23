@@ -1,0 +1,39 @@
+- <u>Proposition:</u> A declarative statement that can be classified as either true or false- but never both
+	- For example: 16 is a prime number, a pair of 6 sided dice have 42 dots, Today is Saturday
+		- All of these are statements or claims that can be answer with yes or no (or true or false)
+	- We use lowercase letters (p,q,r,s) as shorthand to represent propositions
+- <u>Compounds Proposition:</u> A declarative statement that includes one or more propositions.  They often use words like **and**, **or**, **not**, **but not both**.
+	- For example: Canada won silver **and** Korea gold, Either Canada won silver **or** Korea won Gold, **but not both**
+	- We also use shorthand to represent compound propositions:
+		- And/Conjunction = ⋀
+			- Active only if both inputs are active
+		- Or/Disjunction = V
+			- Active if one or both inputs are active
+		- Negation = ¬
+			- Active if the input is inactive
+		- Exclusive Or (XOR) = $⊕$
+			- For example, if someone said "you can have sugar or cream, but not both" would be an exclusive or
+			- Active if only one input is active
+	- Compound Propositions and logic gates have an order of operations similar to BEDMAS, the order of operations is as follows:
+		- ¬ (not)
+		- ⋀ (and)
+		- V (or)
+		- $⊕$ (xor)
+- <u>Truth Table:</u> Shows the value of a compound proposition for every possible combination of truth values for the variables contained in the compound proposition
+	- If a compound proposition has $n$ variables, then there would be $2^n$ rows
+	- Each column is filled in from top to bottom with T's and F's, starting with the right most column, starting with an alternating T F pattern.  Then column to the left with an alternating TT FF, then the next with TTTT FFFF,  then TTTTTTTT FFFFFFFF, etc. doubling the amount of T's and F's each time.
+- <u>Conditional Operation</u> Denoted by "→", the proposition "p → q" reads as "if p then q"
+	- A compound proposition that uses a conditional is called a <u>conditional proposition</u>
+	- Truth Table:
+		- P   Q
+		- T   T   =   T
+		- T   F   =   F
+		- F   T   =   T
+		- F   F   =   T
+- <u>Converse:</u> Denoted as "q → p", basically just switching the roles on a conditional operator. 
+	- So if the conditional is "If it is raining today, the game will be cancelled.", the converse would be "If the game is cancelled, it is raining today."
+	- <u>Contrapositive:</u> "If the game is not cancelled, then it is not raining today."  Denoted as "¬q → ¬p" 
+- <u>Inverse:</u> "If it is not raining today, the game will not be cancelled."  Denoted as "¬p → ¬q"
+- <u>Biconditional Operation:</u> The proposition "p if and only if q" is expressed like "p ↔ q" and it's only true if p and q have **the same** truth value and is false when p and q have different truth values
+- <u>Tautology:</u> a **compound proposition** is a tautology if it's <u>always true</u>, regardless of the truth value of the inputs.
+- <u>Contradiction:</u> a **compound proposition** is a contradiction if it's <u>always false</u>, regardless of the truth value of the inputs.
