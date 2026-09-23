@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
-                "mode": "preview",
+                "file": "Ethics/Goldilocks Formula.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structures Week 1 - Intro to Sets"
+              "title": "Goldilocks Formula"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
+                "file": "Ethics/Goldilocks Formula.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,19 +219,19 @@
   },
   "active": "552452b416c4a9d7",
   "lastOpenFiles": [
-    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
-    "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
-    "Discrete Structures I/Commonly used sets.md",
+    "_Tasks/Week 3 - Sep 28 to Oct 4.md",
     "Ethics/Goldilocks Formula.md",
     "Ethics/Ethics Week 2.md",
-    "Ethics/Ethics Week 1.md",
+    "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
     "_Tasks/Week 2 - Sep 21 to Sep 27.md",
-    "_Tasks/Week 3 - Sep 28 to Oct 4.md",
+    "Programming I/How to connect to Linux SSH Server.md",
+    "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
+    "Discrete Structures I/Commonly used sets.md",
+    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
     "_Tasks/Week 4 - Oct 5 to Oct 11.md",
     "_Tasks/Week 5 - Oct 12 to Oct 18.md",
     "_Tasks/Week 1 - Sep 14 to Sep 20.md",
     "_Tasks/Week 7 - Oct 26 to Nov 1.md",
-    "Programming I/How to connect to Linux SSH Server.md",
     "_Tasks/Week 6 - Oct 19 to Oct 25.md",
     "_Tasks/Week 12 - Nov 30 to Dec 6.md",
     "_Tasks/Week 11 - Nov 23 to Nov 29.md",

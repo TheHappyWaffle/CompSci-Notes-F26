@@ -1,9 +1,23 @@
-**
+- <u>Virtue Ethics:</u> Expressions of moral character
+	- Hierarchy of goods & needs, the highest good
+- Why do we act? sleep? game? gym?
+	- These things aren't ends in of them selves, but they aim at bringing about some end
+	- Goods or the highest good? Is this where it ends? or is there more we're aiming for? Aristotle thinks there's a good we're always aiming for
+- We all seek goods and act to obtain them, but how many people remain unhappy even when they eat good food? or have a lot of money?
+- Happiness is desirable for its self alone.  It's not desirable for some other sake, it's not means to an end, happiness is the end
+	- All other goods such as money and friends are the means to this end, they are desirable for the sake of happiness
 
-- **<u>Virtue: </u>**A habit or character trait that enables individuals to live a good life.
-- **<u>Happiness:</u>** A state of being that results from living a virtuous life.
-- **<u>Human Function:</u>** The unique activities and characteristics that define human beings.
-- **<u>Practical Wisdom:</u>** The ability to make decisions and act in accordance with reason and virtue.
+- <u>Proper Function:</u> The function of a sculptor is to sculpt, a baker to bake, a writer to write.  An excellent baker has honed the craft of baking.  
+	- Everything as a function, and once we know somethings function we know what it means for it to be deficient, fine, or excellent
+		- Excellence is what Aristotle calls "**<u>virtue</u>**" 
+			- A virtuous horse does horse things excellently
+	- What's the proper function of a human being?
+		- According to Aristotle, it's "An activity of the soul in conformity with a rational principal"
+
+- <u>Virtue: </u>A habit or character trait that enables individuals to live a good life.
+- <u>Happiness:</u> A state of being that results from living a virtuous life.
+- <u>Human Function:</u> The unique activities and characteristics that define human beings.
+- <u>Practical Wisdom:</u> The ability to make decisions and act in accordance with reason and virtue.
 
 - No one wants to live a life without meaning, purpose, or satisfaction.  But how do we go about fulfilling each of these?
 

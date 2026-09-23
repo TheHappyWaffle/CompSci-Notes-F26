@@ -1,0 +1,1 @@
+The Goldilocks formula states that virtue lies in the exact middle ground between two extremes; deficiency and excess
