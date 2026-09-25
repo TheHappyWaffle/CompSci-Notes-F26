@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethics/Ethics Week 2 - Aristotle continued....md",
-                "mode": "source",
+                "file": "_Tasks/Week 3 - Sep 28 to Oct 4.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ethics Week 2 - Aristotle continued..."
+              "title": "Week 3 - Sep 28 to Oct 4"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethics/Ethics Week 2 - Aristotle continued....md",
+                "file": "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,15 +220,15 @@
   },
   "active": "552452b416c4a9d7",
   "lastOpenFiles": [
+    "_Tasks/Week 2 - Sep 21 to Sep 27.md",
     "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
     "Ethics/Ethics Week 2 - Aristotle continued....md",
     "Ethics/Goldilocks Formula.md",
+    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
     "Programming I/How to connect to Linux SSH Server.md",
     "_Tasks/Week 3 - Sep 28 to Oct 4.md",
-    "_Tasks/Week 2 - Sep 21 to Sep 27.md",
     "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
     "Discrete Structures I/Commonly used sets.md",
-    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
     "_Tasks/Week 4 - Oct 5 to Oct 11.md",
     "_Tasks/Week 5 - Oct 12 to Oct 18.md",
     "_Tasks/Week 1 - Sep 14 to Sep 20.md",

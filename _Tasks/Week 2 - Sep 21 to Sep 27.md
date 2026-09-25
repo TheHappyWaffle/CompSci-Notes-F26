@@ -10,5 +10,5 @@
 - [ ] Textbook Chapter 2 📅 Sunday September 27th  
 
 <u>PHIL\*2120 Ethics</u>
-- [ ] Get Notes + Textbook in order 📅 Thursday September 24th
-- [ ] Test 1 📅 Thursday September 24th
+- [x] Get Notes + Textbook in order 📅 Thursday September 24th ✅ 2026-09-25
+- [x] Test 1 📅 Thursday September 24th ✅ 2026-09-25

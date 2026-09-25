@@ -34,6 +34,8 @@
 	- So if the conditional is "If it is raining today, the game will be cancelled.", the converse would be "If the game is cancelled, it is raining today."
 	- <u>Contrapositive:</u> "If the game is not cancelled, then it is not raining today."  Denoted as "¬q → ¬p" 
 - <u>Inverse:</u> "If it is not raining today, the game will not be cancelled."  Denoted as "¬p → ¬q"
-- <u>Biconditional Operation:</u> The proposition "p if and only if q" is expressed like "p ↔ q" and it's only true if p and q have **the same** truth value and is false when p and q have different truth values
+- <u>Biconditional Operation:</u> The proposition "p if and only if q" is expressed like "p ↔ q" or "p iff q" and it's only true if p and q have **the same** truth value and is false when p and q have different truth values
 - <u>Tautology:</u> a **compound proposition** is a tautology if it's <u>always true</u>, regardless of the truth value of the inputs.
 - <u>Contradiction:</u> a **compound proposition** is a contradiction if it's <u>always false</u>, regardless of the truth value of the inputs.
+- <u>Logical Equivalence:</u> Two things are equivalent when they have identical truth values when applying the same truth values for each proposition.  Denoted by "≡"
+	- $r ≡ s$ if and only if $r ↔ s$ is a tautology
