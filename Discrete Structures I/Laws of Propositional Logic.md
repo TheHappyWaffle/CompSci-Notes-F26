@@ -1,0 +1,32 @@
+- <u>Identity Laws: </u>
+		- p ∧ T ≡ p
+		- p ∨ F ≡ p
+- <u>Domination Laws:</u>
+	- p ∨ T ≡ T
+	- p ∧ F ≡ F
+- <u>Idempotent Laws:</u>
+	- p ∨ p ≡ p
+	- p ∧ p ≡ p
+- <u>Double Negation:</u>
+	- ¬(¬p) ≡ p
+- <u>Complement Laws:</u>
+	- p ∨ ¬p ≡ T
+	- p ∧ ¬p ≡ F
+- <u>Commutative Laws:</u>
+	- p ∨ q ≡ q ∨ p
+	- p ∧ q ≡ q ∧ p
+- <u>Associative Laws:</u>
+	- (p ∨ q) ∨ r ≡ p ∨ (q ∨ r)
+	- (p ∧ q) ∧ r ≡ p ∧ (q ∧ r)
+- <u>Distributive Laws:</u>
+	- p ∨ (q ∧ r) ≡ (p ∨ q) ∧ (p ∨ r)
+	- p ∧ (q ∨ r) ≡ (p ∧ q) ∨ (p ∧ r)
+- <u>De Morgan’s Laws:</u>
+	- ¬(p ∧ q) ≡ ¬p ∨ ¬q
+	- ¬(p ∨ q) ≡ ¬p ∧ ¬q
+- <u>Absorption Laws:</u>
+	- p ∨ (p ∧ q) ≡ p
+	- p ∧ (p ∨ q) ≡ p
+- <u>Conditional Laws:</u>
+	- p → q ≡ ¬p ∨ q
+	- p ↔ q ≡ (p → q) ∧ (q → p)
