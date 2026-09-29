@@ -5,8 +5,8 @@
 - [ ] DIY Lab2 📅 Sunday October 4th
 
 <u>CIS\*1910 Discrete Structures 1</u>
-- [ ] Assignment 1 📅 Monday September 28th
-- [ ] Quiz 2 📅 Tuesday September 29th
+- [x] Assignment 1 📅 Monday September 28th ✅ 2026-09-29
+- [x] Quiz 2 📅 Tuesday September 29th ✅ 2026-09-29
 - [ ] Textbook Chapter 3 📅 Sunday October 4th
 
 <u>STAT\*2040</u>

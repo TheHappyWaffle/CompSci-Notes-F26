@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Structures I/Structures Week 2 - Logic Basics.md",
+                "file": "_Tasks/Week 3 - Sep 28 to Oct 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structures Week 2 - Logic Basics"
+              "title": "Week 3 - Sep 28 to Oct 4"
             }
           }
         ],
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discrete Structures I/Structures Week 2 - Logic Basics.md",
+                "file": "_Tasks/Week 3 - Sep 28 to Oct 4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,14 +233,15 @@
   },
   "active": "fb2e8d2c3cacdd49",
   "lastOpenFiles": [
+    "_Tasks/Week 2 - Sep 21 to Sep 27.md",
+    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
+    "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
     "Discrete Structures I/Set Operations.md",
     "Discrete Structures I/Laws of Propositional Logic.md",
-    "Discrete Structures I/Structures Week 1 - Intro to Sets.md",
-    "Discrete Structures I/Structures Week 2 - Logic Basics.md",
+    "_Tasks/Week 12 - Nov 30 to Dec 6.md",
     "Discrete Structures I/Commonly used sets.md",
     "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
     "_Tasks/Week 3 - Sep 28 to Oct 4.md",
-    "_Tasks/Week 2 - Sep 21 to Sep 27.md",
     "_Tasks/Week 4 - Oct 5 to Oct 11.md",
     "_Tasks/Week 5 - Oct 12 to Oct 18.md",
     "Ethics/Ethics Week 2 - Aristotle continued....md",
@@ -249,7 +250,6 @@
     "_Tasks/Week 1 - Sep 14 to Sep 20.md",
     "_Tasks/Week 7 - Oct 26 to Nov 1.md",
     "_Tasks/Week 6 - Oct 19 to Oct 25.md",
-    "_Tasks/Week 12 - Nov 30 to Dec 6.md",
     "_Tasks/Week 11 - Nov 23 to Nov 29.md",
     "_Tasks/Week 10 - Nov 16 to Nov 22.md",
     "_Tasks/Week 9 - Nov 9 to Nov 15.md",
