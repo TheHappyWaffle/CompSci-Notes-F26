@@ -1,6 +1,6 @@
 - <u>Identity Laws: </u>
-		- p ∧ T ≡ p
-		- p ∨ F ≡ p
+	- p ∧ T ≡ p
+	- p ∨ F ≡ p
 - <u>Domination Laws:</u>
 	- p ∨ T ≡ T
 	- p ∧ F ≡ F

@@ -1,6 +1,6 @@
 <u>CIS\*1300 Programming:</u>
-- [ ] Quiz 3 📅 Tuesday September 29th
-- [ ] IP Lab 2 📅 Tuesday September 29th
+- [x] Quiz 3 📅 Tuesday September 29th ✅ 2026-09-29
+- [x] IP Lab 2 📅 Tuesday September 29th ✅ 2026-09-29
 - [ ] Textbook Chapter 3 📅 Sunday October 4th
 - [ ] DIY Lab2 📅 Sunday October 4th
 

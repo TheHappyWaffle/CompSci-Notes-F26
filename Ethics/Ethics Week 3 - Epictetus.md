@@ -1,0 +1,53 @@
+- Epictetus was...
+	- Born in 55 B.C. as a slave, his name literally meaning "acquired"
+		- He was purchased by an assistant to the roman emperor Nero
+	- He was intellectually gifted, educated, and eventually freed
+	- He went on to teach philosophy in Rome until emperor Domitian expelled all philosophers from Rome
+		- He later set up a school in Greece where he taught <u>stoci</u> principles
+- "If someone handed over your body to any person who met you, you would be vexed; but that you hand over your mind to any person that comes along, so that, if he revies you, it is disturbed and troubled, are you not ashamed of that?" (#28, p.106)
+- "no one will harm you without your consent" (#30, p. 107)
+- Epictetus shares many fundamental ideas with Aristotle...
+	- The aim for human life is happiness
+	- We achieve happiness by exercising reason in all our decision making 
+	- Being good and virtuous is a matter of character
+	- However, Epictetus's vision of how this life will look is quite different
+	  
+- For Epictetus, happiness is a steady-state free from anxiety, worry, or emotional extremes.  It's a state of mental tranquility; calmness, and piece of mind
+	- This is achieved not by finding the mean in one's virtuous expressions, but in controlling your responses to the world
+- Epictetus's idea of the big picture:
+	- The universe is a vast network of beings and events all organized into a harmonious system
+	- Similar to a play, it's already all written out by the playwright and we're all given roles to act out, and we are unable to control the circumstances or outcomes
+	- But we do have free will, we have the intellectual freedom to judge events and regulate our responses
+	- The universe is divinely governed, it is rational and ordered
+		- There is logic to everything that has happened and everything that will happen
+- One must train them selves to accept that they have no control over anything, and the more we train our selves the more virtuous we are, and the happier we are
+	- Once we accept that everything is predetermined, the common conceptions of good and evil become somewhat irrelevant
+		- Nothing is evil, since everything that happens in supposed to happen
+		- If you get ill, or someone close to you dies, it may seem evil but we are failing to understand the necessity of these things according to the rational order
+		- It is only our judgements that make some things out to be evil and some to be good
+
+- How to be stoic:
+	- The aim is living well and achieving happiness
+		- *Ataraxia* - freedom from disturbance
+		- *Apatheia* - freedom from passion
+	- The trick is knowing what will and will not bring you happiness
+		- Finding a big pile of cash will make you happy for a short time
+		- But you may lose it all, maybe by a bad bet, it gets stolen, or a stock you invested in will crash
+			- But all of these things you cannot control
+	- The key to happiness is knowing what is in your power and what isn't
+		- The only truly valuable things are those that we can control
+	- The only true good is living virtuously
+		- This means that most of the things we experience are actually value-neutral
+		- They happen to us from outside and we cannot control them
+		- They are neither good nor bad- they just are 
+
+- Anything outside of our control is what Epictetus refers to as 'externals'
+	- These things can all disappoint us or hurt us, but worrying about them is a recipe for unhappiness and discontent
+		- Ex; wealth, status, what people think of you, where you were born, etc.
+	- They arise from outside of us, from outside our minds
+		- Ex; your flight gets cancelled, someone you love doesn't like you back, etc.
+- "Make it, therefore, your study at the very outset to say to every harsh external impression 'you are an external impression and not at all what you appear to be.' After that examine it and test it by these rules which you have" (101)
+	- Does this impression have to do with things under my control?
+		- No?
+			- Then it has nothing to do with me
+- "Withdraw your aversion from all matters that are not under our control." (101)
