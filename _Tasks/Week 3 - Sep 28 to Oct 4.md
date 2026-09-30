@@ -1,7 +1,7 @@
 <u>CIS\*1300 Programming:</u>
 - [x] Quiz 3 📅 Tuesday September 29th ✅ 2026-09-29
 - [x] IP Lab 2 📅 Tuesday September 29th ✅ 2026-09-29
-- [ ] Textbook Chapter 3 📅 Sunday October 4th
+- [x] Textbook Chapter 3 📅 Sunday October 4th ✅ 2026-09-30
 - [ ] DIY Lab2 📅 Sunday October 4th
 
 <u>CIS\*1910 Discrete Structures 1</u>
