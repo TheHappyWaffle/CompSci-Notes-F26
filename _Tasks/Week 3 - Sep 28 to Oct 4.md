@@ -10,7 +10,7 @@
 - [ ] Textbook Chapter 3 📅 Sunday October 4th
 
 <u>STAT\*2040</u>
-- [ ] Get notes in order 📅 Sunday October 4th
+- [ ] Actually look at the fckn course 📅 Sunday October 4th
 
 
 
