@@ -51,3 +51,15 @@
 		- No?
 			- Then it has nothing to do with me
 - "Withdraw your aversion from all matters that are not under our control." (101)
+  
+- <u>Harmony with Nature:</u>
+	- This means responding appropriately to the world, and we do this when we choose ho we're going to respond
+		- We need to respond rationally and deliberately and not reactively and emotionally 
+	- If ants ruin your picnic, and that upsets you, it's not the ant's that are upsetting you.  It's your self.  The ants eating your food is natural and out of your control, you getting upset at them is irrational and not in accordance with your nature.  you can do better.
+		- "It is not the things themselves that disturb men, but their judgements about these things" (5, p. 102)
+	- You need to enjoy what you can but understand that circumstances are not under your control
+		- If you are on a beach collecting shells, and then the captain of the ship announces it is time to set sail, you need to let go of shell collecting and move on
+	- "If you want to be free, never wish for anything nor avoid anything that is under the control of others" (103)
+	- "No one will harm you without your consent, you will have been harmed only when you think you are harmed." (30, p. 107)
+	- Self reliance is the goal, you do not need to remove your self from the world and become a hermit
+	- We can control our reactions to the world, and our passions

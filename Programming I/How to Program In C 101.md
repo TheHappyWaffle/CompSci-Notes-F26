@@ -1,5 +1,4 @@
-**Every program needs to go like this:**
-`
+**Every program needs to go like this:**`
 ```
 #include <stdio.h>
 int main(){
@@ -100,3 +99,23 @@ Then call the function wherever (you do not need to define a function on a line 
 ```
 newFunction(12);
 ```
+
+
+
+<u>Loops:</u>
+A while loop is typed as follows, and executes while the inputted Boolean is true
+```
+while (Boolean){
+	executeCode();
+}
+```
+
+A for loop is typed as follows, it until the number in the middle statement satisfies the expression it is apart of.  Works the exact same way as if you wrote a while loop with the center expression as the condition, the right most expression at the end of the loop, and the left most expression right before the loop.
+```
+int i;
+
+for (i = 0; i < N; ++i) {        // N can be any number
+   executCode();
+}
+```
+you can use the line ``break;`` to immediately exit any loop.  It is recommended to use these in conjunction with if statements
