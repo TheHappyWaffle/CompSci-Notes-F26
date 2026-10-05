@@ -8,3 +8,6 @@
 
 <u>PHIL\*2120 Ethics</u>
 - [ ] Test 2 📅 Thursday October 15th
+
+<u>STAT\*2040</u>
+- [ ] Chapter 5 📅 Sunday October 18th

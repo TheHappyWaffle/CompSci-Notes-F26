@@ -1,0 +1,24 @@
+- Statistics is about using **data to learn about an underlying reality** that we don't know for certain.
+- We often use statistics when making decisions under uncertainty.
+- <u>General process</u>
+	- Identify a question of interest.
+	- Find or collect appropriate **data**.
+	- Summarize and visualize the data.
+	- Analyze the data.
+	- Use the results to answer the original question.
+- <u>Descriptive Statistics:</u> is when we use plots and numerical data to describe a data set, we usually describe data using various charts or graphs, or numerical summaries like mean, median, and standard deviation
+- <u>Standard Deviation:</u> a statistical measure that shows how far numbers in a data set are spread out from their average, or mean
+- <u>Inferential Statistics:</u> Using data to make conclusions about an underlying reality, often involves investigating relationships between variables
+	- Is there a difference between two groups?
+	- Is an observed difference a real effect or just random variability?
+	- Is there a relationship between two variables?
+	- Can we predict or explain one variable using another?
+- <u>Statistical Interference:</u> 
+	- Confidence intervals
+	    - Used to estimate an unknown population quantity.
+	- Hypothesis tests
+	    - Used to investigate whether there is strong evidence for an effect or relationship.
+	- Analysis of Variance (ANOVA)
+	    - Used to investigate differences between multiple groups.
+	- Regression
+	    - Used to investigate/model relationships between variables.

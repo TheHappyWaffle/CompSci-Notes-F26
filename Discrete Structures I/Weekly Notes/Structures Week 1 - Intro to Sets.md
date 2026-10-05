@@ -1,6 +1,6 @@
-- **<u>Set</u>**: An unordered collection of objects, denoted by “{$A$}”
+- [[Set]]: An unordered collection of objects, denoted by “{$A$}”
 	- The elements of two sets do not need to be in the same order for them to be equal to each other
-	- A set with no elements is the empty set, denoted by “$Ø” or “{ }”
+	- A set with no elements is the empty set, denoted by “Ø” or “{ }”
 		- The cardinality of an empty set is always 0
 		- An empty set is a subset of any existing set
 		- {Ø} ≠ 0
@@ -10,13 +10,13 @@
 - **<u>Element</u>**: An item within a set, denoted by “$x ∈ A$”
 	- $x ∊ A$, means a is an element of $A$
 	- $z ∉ A$, means a is not and element of $A$
-- **<u>Subset</u>**: A set where every element within is present within another set, denoted by “$A ⊆ B$”
+- [[Subset]]: A set where every element within is present within another set, denoted by “$A ⊆ B$”
 	- {$A$} is not a subset of $B$, but $A$ is a subset of $B$.  Think of it like a structure containing a structure for {$A$}
 - **<u>Proper Subset</u>**: A subset where $A ≠ B$, denoted by “$A ⊂ B$”
 	- For example, if $A$ = {1,2,3} and $B$ = {1,2,3} and $C$ = {1,2} then $B$ would not be a proper subset of $A$, since $A = B$.  However $C$ would be a proper subset of $A$ since $C ≠ A$
 - **<u>Cardinality</u>**: The amount of distinct elements within a set, denoted by “|{$A$}|”
 	- For example, the cardinality of {1,1,1,2,3,4} would be 4
-- **[[Commonly used sets]]:**
+- [[Commonly used sets]]:
 	- $Z$ = {..., -2,-1,0,1,2,...} every integer
 	- $Z$+/- = {1,2,3,...} every positive/negative integer
 	- $N$ = {0,1,2,3,...} every non negative integer

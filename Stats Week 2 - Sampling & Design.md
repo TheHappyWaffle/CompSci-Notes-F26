@@ -1,0 +1,27 @@
+- <u>Individuals/Units/Cases:</u> The objects on which a measurement is made, for example if you are sampling a family of penguins, the penguins would be the units
+- <u>Population:</u> The [[Set]] of all units of interest to an investigator.  If you are sampling a family of penguins, the entire family of penguins would be the population.  A population could be finite (like just the family of 5 penguins) or infinite (all penguins that have and will ever walk the Earth)
+- <u>Parameter:</u> A numerical characteristic of a population, for example the amount of fish the penguins eat, or how much swimming each penguin does on a given day.
+	- In practice it is usually impractical or impossible to take measurements on the entire population, and thus we typically do not know the value of a parameter and choose to estimate it instead
+- <u>Sample:</u> A [[Subset]] of units selected from the population.  5 penguins selected from a colony of penguins would be the sample
+- <u>Statistic:</u> a numerical characteristic of a sample, for example the sample mean of 8 bags of popcorn (1210 calories) is a statistic
+- <u>Unbiased Sampling:</u> A sampling where the result on average would be representative of the population of interest.  Meaning no sub groups have been over or under represented 
+	- For example, if a conservative radio station asks their listeners for their opinions on a liberal candidate, and majority of the responses say their against the candidate, this would not be reflective of the entire population since it was a population bias
+- <u>Simple Random Sample:</u> A way of drawing an unbiased sample from a population with no member of the sample being any more or less likely to be contained within the sample than any other member
+	- <u>Finite Simple Random Sample:</u> A sample drawn in such a fashion that each possible sample of size $n$ had the same chance of being selected
+- <u>Stratified Random Sample:</u> Similar to simple random sampling, however the population gets divided into smaller non-overlapping sub groups (called strata) based on shared characteristics before randomly selecting participants from each group
+- <u>Cluster Sampling:</u> Typically done as a matter of convenience or necessity, cluster sampling arises in situations where the population is divided into clusters, in such a way that it is easier to sample clusters of individuals rather than the individuals themselves
+- <u>Response Variable:</u> The variable of interest in a study
+- <u>Explanatory Variable:</u> A variable that possibly explains or causes changes in the response variable.  There are often several explanatory variables in a study
+- <u>Observational Study:</u> A study where the researchers observe and measure variables without imposing any conditions
+- <u>Experiment:</u> A study where the researchers impose conditions on the participants then investigate possible differences in the distribution of the response variable among the various groups
+- <u>Lurking Variable:</u> An unmeasured variable related to both the explanatory and response variables that can distort the observed relationship between them
+- <u>Confounding:</u> A condition occurring when the individual effects of two or more variables on a response variable cannot be separated. Confounding variables can be measured or unmeasured.
+- <u>Replicability Crisis & Publication Bias:</u> The observed tendency for scientific literature to favour publishing statistically significant results over non-significant results, contributing to difficulties when attempting to replicate published findings
+- <u>Probability of Selection in Simple Random Sampling:</u> For a finite population consisting of $N$ distinct individuals, the total number of distinct ways to choose an unordered sample of size $n$ without replacement is given by the combination formula:
+$$\binom{N}{n} = \frac{N!}{n!(N - n)!}$$
+- <u>Probability of selecting any specific sample combination:</u>
+$$P(\text{Selecting a specific sample}) = \frac{1}{\binom{N}{n}}$$
+- <u>Probability of any single individual $i$ being included in the sample:</u>$$P(\text{Individual } i \text{ is in sample}) = \frac{n}{N}$$
+- <u>Sample Size vs. Population Proportion:</u> 
+	- The precision of statistical estimates depends almost entirely on the absolute sample size ($n$), not the proportion of the population sampled ($\frac{n}{N}$)
+	- A random sample of size $n = 1000$ yields similar statistical precision regardless of whether the population size $N$ is 100,000 or 1,000,000,000 (provided $n$ represents a small fraction of $N$)

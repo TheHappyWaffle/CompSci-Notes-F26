@@ -6,7 +6,7 @@
 
 <u>CIS\*1910 Discrete Structures 1</u>
 - [x] Assignment 1 📅 Monday September 28th ✅ 2026-09-29
-- [x] Quiz 2 📅 Tuesday September 29th ✅ 2026-09-29
+- [x] Quiz 2 📅 Tuesday September 29th ✅ 2026-10-02
 - [x] Textbook Chapter 3 📅 Sunday October 4th ✅ 2026-10-01
 
 <u>STAT\*2040</u>

@@ -12,3 +12,6 @@
 
 <u>HIST\*2040</u>
 - [ ] Midterm 📅 Wednesday October 21st
+
+<u>STAT\*2040</u>
+- [ ] Chapter 6 📅 Sunday October 25th

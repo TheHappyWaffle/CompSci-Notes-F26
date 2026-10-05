@@ -29,7 +29,15 @@ You can also add "\#include \<math.h>" to add functions like pow();
 - pow(x, y)
 	- same as x^y, make sure to include math.h
 
-<u>If Statements:</u>
+<u>Enumerators:</u> An enumerator is a variable that containers multiple names, defined as follows:
+```
+  enum enumName {name1, name2,  ...};
+```
+Enumerators can also be used in switch case statements
+
+
+
+[[If Statements]]:
 ``` 
 if (condition){
      code;
@@ -59,7 +67,7 @@ myVar = (condition) ? 1 : 2; // Left side of colon is true, right side is false
 
 
 
-<u>Switch Statements:</u>
+[[Switch Statements]]:
 Assuming 'a' was an integer, a switch statement would look like this:
 ```
 switch (a) {
@@ -81,7 +89,7 @@ By not putting a break, it can cause the variable to "fall through" to the next 
 
 
 
-<u>Functions:</u>
+[[Functions]]:
 A function must first be declared just like a variable, like seen below:
 ```
 returnType functionName(parameterType parameterName); // function 1
@@ -102,7 +110,7 @@ newFunction(12);
 
 
 
-<u>Loops:</u>
+[[Loops]]:
 A while loop is typed as follows, and executes while the inputted Boolean is true
 ```
 while (Boolean){

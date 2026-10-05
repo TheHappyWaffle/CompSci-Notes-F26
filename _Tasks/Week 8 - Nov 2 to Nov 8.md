@@ -11,3 +11,6 @@
 
 <u>PHIL\*2120 Ethics</u>
 - [ ] Test 3 📅 Tuesday November 3rd
+
+<u>STAT\*2040</u>
+- [ ] Chapter 8 📅 Sunday November 8th
