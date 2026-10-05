@@ -1,2 +1,2 @@
-A set where every element within is present within another set, denoted by “$A ⊆ B$”
+A [[Set]] where every element within is present within another set, denoted by “$A ⊆ B$”
 - {$A$} is not a subset of $B$, but $A$ is a subset of $B$.  Think of it like a structure containing a structure for {$A$}

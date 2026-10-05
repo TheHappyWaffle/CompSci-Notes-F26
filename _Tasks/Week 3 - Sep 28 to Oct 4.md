@@ -10,7 +10,7 @@
 - [x] Textbook Chapter 3 📅 Sunday October 4th ✅ 2026-10-01
 
 <u>STAT\*2040</u>
-- [ ] Actually look at the fckn course 📅 Sunday October 4th
+- [x] Actually look at the fckn course 📅 Sunday October 4th ✅ 2026-10-05
 
 
 

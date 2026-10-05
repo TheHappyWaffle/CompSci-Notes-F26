@@ -1,0 +1,13 @@
+- <u>Sample Space:</u> The set of all possible outcomes of an experiment 
+	- All sample points on the sample space must form a [[Partition]] of the trial
+	- <u>Discrete Sample Space:</u> Every outcome is countable (like coin flips, or die rolls)
+	- <u>Continuous Sample Space:</u> Outcomes for a continuum (like every possible value of a persons height)
+- <u>Sample Point:</u> An individual outcome in the sample space 
+- <u>Event:</u> An event is a [[Subset]] of the sample space, often represented by capital letters.  
+- <u>Rules of Probability:</u>
+	- Every probability must be between 0 and 1; $0\leq P(A)\leq1$
+	- Something in the sample space must happen every trial; $P(S)=1$
+- <u>Conditional Probability:</u> What is the probability of $A$ given that $B$ has occurred? $\boxed{P(A\mid B)}$
+	- Read as "probability of $A$ given $B$"
+- <u>Independent Events:</u> The occurrence of one event does not affect the probability of the other $\boxed{P(A\cap B)=P(A)P(B)}$
+  	

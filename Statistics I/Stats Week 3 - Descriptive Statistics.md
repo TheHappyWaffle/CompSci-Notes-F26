@@ -1,0 +1,48 @@
+- <u>Descriptive Statistics:</u> is when we use plots and numerical data to describe a data set, we usually describe data using various charts or graphs, or numerical summaries like mean, median, and standard deviation
+- <u>Categorical (Qualitative) Data:</u> Values fall into exactly one of two or more categories (e.g., eye colour, blood type).  Often summarized using bar charts, pareto charts (ordered bar charts), or pie charts
+- <u>Quantitative (Numerical) Data:</u> Values represent measurable counts or measurements.  often represented using histograms, dot-plots, box-plots, and stem/leaf-plots
+	- <u>Discrete:</u> Takes on distinct, separate values (often countable).
+	- <u>Continuous:</u> Takes on any value within a given interval (measurements like height or time)
+- <u>Frequency:</u> The number of observations in a category of data
+	- <u>Relative Frequency:</u> The proportion of of observations in a category, equal to  $\frac{frequency}{n}$, where $n$ represents the total number of observations in the sample
+		- <u>Percent Relative Frequency:</u> Is the relative frequency expressed as a percentage, equal to $\frac{frequency}{n} ×100\%$
+- <u>Ordinal:</u> A variable with a natural ordering of categories (ex. small, medium, and large)
+- <u>Mean</u> ($\bar{x}$): The arithmetic average of observations; sensitive to extreme values/outliers
+	- <u>Transformed Mean:</u> $\boxed{\bar{x}^*=a+b\bar{x}}$
+- <u>Median</u> ($M$): The midpoint of ordered data; robust/resistant to outliers
+	- If there an are even number of samples, then the median is the average of the two middle samples
+- <u>Mode:</u> The most frequently occurring value in a dataset
+- <u>Range:</u> Difference between the maximum and minimum values ($\text{Range} = \text{Max} - \text{Min})$
+- <u>Variance & Standard Deviation</u> ($s^2$ & $s$): Measure average squared deviations from the mean; standard deviation is in original units
+- <u>Interquartile Range</u> ($\text{IQR}$): Range of the middle 50% of data ($\text{IQR} = Q_3 - Q_1$), resistant to outliers
+- <u>Shape of Distributions:</u> Overall shape of data on a histogram:
+	- **Symmetric:** Left and right sides are mirror images; Mean $\approx$ Median.
+	- **Right-Skewed (Positive Skew):** Long right tail (higher bars on the left); Mean $>$ Median.
+	- **Left-Skewed (Negative Skew):** Long left tail (higher bars on the right); Mean $<$ Median.
+- <u>Empirical Distribution Function:</u> For quantitative variables, it can be helpful to plot the cumulative relative frequency (the proportion of observations that are less than or equal to each value)
+- <u>Unimodal:</u> When a histogram has a **single** peak
+- <u>Bimodal:</u> When a histogram has **two** peaks
+- <u>Multimodal:</u> When a histogram has **multiple** peaks
+- <u>Summation Notation:</u> $\sum_{i=1}^{n} x_i$ means add up the $x$ values from $x_1$ through $x_n$, If the limits of summation are omitted, assume that we are summing from $i = 1$ to $n$.
+	- $\sum x_i^2 = (−4)^2 + 122 + 182 + (−2)^2 = 48$
+- <u>Sample Mean:</u> Represented by $\bar x$, sample mean is the average of all observations, calculated with: $$\bar x = \frac{\sum x_i}{n}$$
+- <u>Geometric Mean:</u> The $n$th root of the product of the observations$$\left( \prod_{i=1}^{n} x_i \right)^{1/n}$$
+- <u>Harmonic Mean:</u> The reciprocal of the arithmetic mean of the reciprocals $$(\prod_{i=1}^{n} x_i)^{1/n}$$
+- <u>Weighted Mean:</u> A mean where some observations are given more weight than others
+- <u>Trimmed Mean:</u> A certain percentage of the largest and smallest observations are omitted from the calculations. This results in a mean that is less sensitive to extreme value
+- <u>Mean Absolute Deviation (MAD):</u> The average distance of each element from the mean, calculated with: $$MAD = \frac{\sum |x_i - \bar{x}|}{n}$$
+- <u>Sample Variance:</u> Measures variability using the squared deviations from the mean: $$s^2=\frac{\sum(x_i-\bar{x})^2}{n-1}$$
+	- <u>Transformed Variance:</u> $\boxed{s_{x^*}^2=b^2s_x^2}$
+- <u>Standard Deviation:</u> The root of the **sample variance**, calculated with: $$s = \sqrt{s^2} = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n - 1}}$$
+	- <u>Transformed Standard Deviation:</u> $\boxed{\bar{x}^*=a+b\bar{x}}$
+- <u>Empirical Rule:</u> Approximately 68% of observations are within 1 Standard Deviation (SD) of the mean: $\bar{x}\pm s$.  The empirical rule is a **rough guideline**, not a guaranteed rule.  It's based on mound-shaped distributions, not skewed distributions
+	- Approximately 95% are within 2 SDs: $\bar{x}\pm2s$
+	- Almost all observations are within 3 SDs: $\bar{x}\pm3s$
+	- For example, if $\bar{x}=50,\quad s=10$, then:
+		- 68% lie between **40 and 60**
+		- 95% lie between **30 and 70**
+		- Almost all lie between **20 and 80**
+	- For mound-shaped data, the range will often be roughly 4–6 standard deviations
+- <u>Chebyshev's Inequality:</u> Applies to any distribution, states that the proportion of observations that lie within $k$ standard deviations of the mean must be at least $1-\frac{1}{k^2}$, (for $k>1$)
+- <u>Z-Score</u> ($z_i=\frac{x_i-\bar{x}}{s}$): Measures how many standard deviations an observation falls above or below the mean.
+- <u>Percentile:</u> The (k)th percentile is the value such that (k%) of the ordered observations are less than or equal to that value.  After ordering observations from smallest to largest, it's calculated with: $$n\left(\frac{k}{100}\right)$$

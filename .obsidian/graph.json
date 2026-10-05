@@ -6,17 +6,53 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:_Tasks  ",
+      "color": {
+        "a": 1,
+        "rgb": 5897984
+      }
+    },
+    {
+      "query": "path:\"Discrete Structures I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "path:Ethics  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Programming I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16449791
+      }
+    },
+    {
+      "query": "path:\"Statistics I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.30071371927042,
+  "lineSizeMultiplier": 3.00010573618821,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224399,
+  "scale": 0.8854989543150332,
   "close": true
 }

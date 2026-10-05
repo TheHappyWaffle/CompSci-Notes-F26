@@ -21,7 +21,7 @@
 $$\binom{N}{n} = \frac{N!}{n!(N - n)!}$$
 - <u>Probability of selecting any specific sample combination:</u>
 $$P(\text{Selecting a specific sample}) = \frac{1}{\binom{N}{n}}$$
-- <u>Probability of any single individual $i$ being included in the sample:</u>$$P(\text{Individual } i \text{ is in sample}) = \frac{n}{N}$$
+- <u>Probability of any single individual 'i' being included in the sample:</u>$$P(\text{Individual } i \text{ is in sample}) = \frac{n}{N}$$
 - <u>Sample Size vs. Population Proportion:</u> 
 	- The precision of statistical estimates depends almost entirely on the absolute sample size ($n$), not the proportion of the population sampled ($\frac{n}{N}$)
 	- A random sample of size $n = 1000$ yields similar statistical precision regardless of whether the population size $N$ is 100,000 or 1,000,000,000 (provided $n$ represents a small fraction of $N$)

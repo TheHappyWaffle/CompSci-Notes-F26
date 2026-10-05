@@ -1,4 +1,4 @@
-- **<u>Intersection:</u>** The set of elements that are elements in two given sets, denoted by $A ∩ B$
+- **<u>Intersection:</u>** The [[Set]] of elements that are elements in two given sets, denoted by $A ∩ B$
 	- For example, if $A$ = {1,3,9} and $B$ = {1,3,10,11} then $A ∩ B$ = {1,3}
 	- Can also apply to infinite sets, for example if $A$ contained every integer multiple of 2 and $B$ contained every integer multiple of 3, then $A ∩ B$ would contain every integer multiple of 6
 - **<u>Union:</u>** A set of all elements present within two sets, denoted by “$A ∪ B$”
@@ -18,7 +18,7 @@
 	- The cardinality of a set of Cartesian products (|$A$ x $B$|) is equal to |$A$| x |$B$|
 		- So if $A$ had a cardinality of 3, and $B$ had a cardinality of 2, then $A$ x $B$ would have a cardinality of 6
 	- The Cartesian product of an empty set is always equal to the empty set
-- **<u>Partition:</u>** A non-empty set $A$, is a collection of non-empty subsets of $A$ such that each element of $A$ is in exactly one of the subsets
+- [[Partition]]: A non-empty set $A$, is a collection of non-empty [[Subset]]s of $A$ such that each element of $A$ is in exactly one of the subsets
 	- For example, $A1$, $A2$, . . . , $An$ is a partition of $A$ if all the following conditions hold:
 	- Every set must be a subset of $A$
 	- Every set must not be an empty set
