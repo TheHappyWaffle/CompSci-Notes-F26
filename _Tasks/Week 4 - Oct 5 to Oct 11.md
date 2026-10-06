@@ -1,8 +1,8 @@
 <u>CIS\*1300 Programming:</u>
-- [ ] Quiz 4 📅 Tuesday October 6th
-- [ ] IP Lab 3 📅 Tuesday October 6th
+- [x] Quiz 4 📅 Tuesday October 6th ✅ 2026-10-06
+- [x] IP Lab 3 📅 Tuesday October 6th ✅ 2026-10-06
 - [x] Textbook Chapter 4 📅 Sunday October 11th ✅ 2026-10-04
-- [ ] DIY Lab 3 📅 Sunday October 11th
+- [x] DIY Lab 3 📅 Sunday October 11th ✅ 2026-10-06
 
 <u>CIS\*1910 Discrete Structures 1</u>
 - [x] Quiz 3 📅 Tuesday October 6th ✅ 2026-10-04

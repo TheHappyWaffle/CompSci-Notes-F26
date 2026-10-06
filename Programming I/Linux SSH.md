@@ -4,7 +4,7 @@
 3. Then just type "nano" into the console, and you're in :)
 
 <u>Useful commands:</u>
-- "<u>cd [Name]</u>" goes into the \[Name] folder
+- "<u>cd [Name]</u>" goes into the \[Name] folder (The folder for labs is called "1300")
 - "<u>mkdir [Name]</u>" makes a folder called \[Name]
 - "<u>gcc -Wall -std=c99  [Name].c -o [Name]</u>" compiles the \[Name] program
 - "<u>nano [Name].c</u>"opens the \[Name] file in nano

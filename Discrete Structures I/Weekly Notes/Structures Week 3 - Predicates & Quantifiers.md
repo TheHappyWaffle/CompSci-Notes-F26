@@ -31,7 +31,8 @@
 		- This statement <u>binds</u> both occurrences of $x$, therefore the statement <u>is</u> a proposition
 	- If $x$ is <u>bound</u> then the statement is a proposition
 - <u>Negation:</u> The negation of the statement: "Everyone loves discrete math", would be "There exists some student who does not love discrete math", because in order to make the original statement false, there needs to be only one student who does not love discrete math
-- <u>Demorgan's Law For Universally Quantified Statements:</u>
-	- $¬∀x P(x) ≡ ∃x ¬P(x)$
-- <u>Demorgan's Law For Existentially Quantified Statements:</u>
-	- $¬∃x P(x) ≡ ∀x ¬P(x)$
+- <u>Demorgan's Law For Universally Quantified Statements:</u> $$¬∀x P(x) ≡ ∃x ¬P(x)$$
+- <u>Demorgan's Law For Existentially Quantified Statements:</u> $$¬∃x P(x) ≡ ∀x ¬P(x)$$
+- <u>Nested Quantifiers:</u> $P(x,y) xy = 1$, $∀x∃yP(x,y)$ reads as "for every value of x, there exists a value of $y$ such that $x*y = 1$"
+
+# THERE'S 3 PIONEERS OF DISECRETE MATH, MENTIONED AT THE BOTTOM OF LABS AND THERE WILL BE A QUESTION ON THEM IN THE MIDTERM

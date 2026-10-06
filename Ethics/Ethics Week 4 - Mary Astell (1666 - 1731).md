@@ -1,0 +1,18 @@
+- Focuses mainly on virtue for women
+	- Back then, men were expected to be rational, self-governing, and intelligent
+	- Women were expected to be beautiful, pretty, able to run a house and take care of children, and be looking for a man to support
+- Wrote a book called "a serious proposal to the ladies" aimed at women educating each other without any men allowed
+- She didn't care about what men thought about her, if she was "less" attractive for being smart, and decided her chase of knowledge was worth the controversy 
+- What is Virtue Ethics?
+	- Aristotle thinks its to perfect the human capacity for reasoning well, and act always in accordance with reason to attain his version of happiness which is self-fulfillment
+	- Epictetus agrees that it's to perfect the human capacity for reasoning well, however he things it's also to remember what one can and cannot control and that's how we attain his version of happiness which is mental tranquility, and freedom from disturbance
+	- Astell also agrees it's to perfect the human capacity for reasoning well, however she thinks it's also to avoid errors of reasoning, to accept only what is clear and true, avoid gullibility, dogmatism, prejudice, and misinformation.  And that is how she thinks we can attain her version of happiness which is self-esteem, and more importantly, fulfil our moral duty to god
+- If women live their lives based on what men think of them and have no confidence in them selves or their beliefs, then major social issues will arise
+- Proposed that access to education should be provided for women where they could learn and develop their reasoning skills, in a setting here women can learn together and encourage each other to flourish intellectually
+- Women are encouraged by society to focus on their physical appearance, their attractiveness, and not to focus on their minds and intellectual growth.
+	- Astell wanted to change this, and encourage women to find worth within them selves rather than measuring their worth based on the opinions of others or based on weather they were married or not
+- Astell believes that true beauty comes from within, and she emphasizes character, and not material or physical goods
+- God has given us rational functionalities
+	- And god is ultimately rational and wise
+	- Reason is therefore the divine in us
+	- We are obligated to improve it and use it well

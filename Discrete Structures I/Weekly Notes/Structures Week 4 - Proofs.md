@@ -1,0 +1,6 @@
+- <u>Theorem:</u> A statement that can be shown to be true
+- <u>Lemma:</u> A (simple) theorem used to prove other theorems
+- <u>Corollary:</u> A proposition that can be shown to be true by applying a theorem
+- <u>Conjecture:</u> A statement whose truth value is unknown
+	- To disprove a statement, you need only find one case where the statement is false
+- <u>Proof:</u> We demonstrate a **theorem** or **lemma** is true with a sequence of statements that form an **argument**- a proof

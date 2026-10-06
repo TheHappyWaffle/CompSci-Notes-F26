@@ -2,7 +2,7 @@
 	- For example: 16 is a prime number, a pair of 6 sided dice have 42 dots, Today is Saturday
 		- All of these are statements or claims that can be answer with yes or no (or true or false)
 	- We use lowercase letters (p,q,r,s) as shorthand to represent propositions
-- <u>Compounds Proposition:</u> A declarative statement that includes one or more propositions.  They often use words like **and**, **or**, **not**, **but not both**.
+- <u>Compound Proposition:</u> A declarative statement that includes one or more propositions.  They often use words like **and**, **or**, **not**, **but not both**.
 	- For example: Canada won silver **and** Korea gold, Either Canada won silver **or** Korea won Gold, **but not both**
 	- We also use shorthand to represent compound propositions:
 		- And/Conjunction = ⋀

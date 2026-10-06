@@ -10,7 +10,7 @@ A for loop is typed as follows, it until the number in the middle statement sati
 int i;
 
 for (i = 0; i < N; ++i) {        // N can be any number
-   executCode();
+   executeCode();
 }
 ```
 you can use the line ``break;`` to immediately exit any loop.  It is recommended to use these in conjunction with if statements
