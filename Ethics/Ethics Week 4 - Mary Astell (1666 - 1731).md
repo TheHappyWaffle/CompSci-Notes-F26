@@ -16,3 +16,37 @@
 	- And god is ultimately rational and wise
 	- Reason is therefore the divine in us
 	- We are obligated to improve it and use it well
+- <u>Natural Logic:</u>
+	- Reasoning is a natural faculty in all humans
+	- If humans all share this unique capacity for logic and reasoning, this must define what our ends are
+		- And if we have this ability, then exercising it and perfecting it must be the key to a good and happy life
+- Without a proper foundation in the skills of critical reasoning, reading, conversation, and languages will not lead to self-perfection and may lead us into confusion or into a false sense of our own perfection
+- Reasoning is "a comparison of ideas, and a deducing of conclusions from a clear and evident principles" (167)
+	- But if ideas are vague or ill-defined "all our discourse will be nonsense, absurdity, falsehood, and error" (167)
+		- For example if we're tying to figure out the gender of the ghost haunting our house, we should just drop the argument since it's a waste of time
+- "Everyone should have a teacher in their own bosoms, who will if they seriously apply themselves to him, immediately enlighten them so far as that is necessary, and to direct them to such means as are sufficient for their instruction in human and divine truths"
+	- Aiming at truth in all human matters, theological beliefs, and morality
+- Reason allows us to regulate our assent if it properly aimed at principles of truth-seeking
+	- The first step is clearing away all the erroneous or confusing stuff
+	- Purifying our minds, in a way, and examining questions rationally and objectively
+	- **Like Epictetus** this is both a moral program and curative program
+	- If the truth eludes us, we can at least avoid error and remain agnostic
+- <u>There are two kinds of knowledge:</u>
+	- <u>Analytic:</u> for example: $2 + 2 = 4$
+	- <u>Synthetic:</u> for example, let's say there's a golden mountain
+		- I can have the idea of a golden mountain
+		- The problem arises when I judge this idea to represent something true about the world outside of my mind
+		- I can choose to assent, or to not assent to this
+		- "It is not the idea- but the judgement that is false" (169)
+- We often jumble ideas about the world with our own biases or feelings and form judgments that are just as wrong
+	- For example, you could say that bears are predators of humans, because bears attack humans and that scares us.  But this is not true, they could have completely different motivations for attacking us
+- <u>Astell's rules for methods of reason:</u>
+	- Rule 1: "Acquaint our selves thoroughly with the state of the question, have a distinct notion of our subject"
+		- Avoid irrelevant ideas 
+	- Rule 2: Cut out all needless ideas and whatever has not a connection to the matter under consideration
+		- Clear our minds of irrational or fuzzy ideas
+	- Rule 3: Order our reasoning, from the simplest to the most complex ideas
+	- Rule 4: Don't leave any part of the question unexamined- everything is up for scrutiny
+	- Rule 5: Keep the subject directly in our eye- do not veer of onto other subjects
+	- Rule 6: To judge no further than we perceive, and not to take any thing for truth which we do not evidently know to be so
+		- For example, don't assume alien civilizations are all technologically advanced and will come to invade us arriving in ships

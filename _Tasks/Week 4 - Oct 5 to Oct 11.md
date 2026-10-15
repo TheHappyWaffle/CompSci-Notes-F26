@@ -6,8 +6,8 @@
 
 <u>CIS\*1910 Discrete Structures 1</u>
 - [x] Quiz 3 📅 Tuesday October 6th ✅ 2026-10-04
-- [ ] Midterm 1 📅 Thursday October 8th
+- [x] Midterm 1 📅 Thursday October 8th ✅ 2026-10-09
 - [ ] Textbook Chapter 4 📅 Sunday October 11th
 
 <u>STAT\*2040</u>
-- [ ] Test 1 📅 Wednesday October 7th @ 4pm - 8pm
+- [x] Test 1 📅 Wednesday October 7th @ 4pm - 8pm ✅ 2026-10-09
