@@ -1,4 +1,4 @@
-- <u>Identity Laws: </u>
+ch- <u>Identity Laws: </u>
 	- p ∧ T ≡ p
 	- p ∨ F ≡ p
 - <u>Domination Laws:</u>

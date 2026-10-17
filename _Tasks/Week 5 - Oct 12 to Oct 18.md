@@ -7,7 +7,7 @@
 - [ ] Textbook Chapter 5 📅 Sunday October 18th
 
 <u>PHIL\*2120 Ethics</u>
-- [ ] Test 2 📅 Thursday October 15th
+- [x] Test 2 📅 Thursday October 15th ✅ 2026-10-16
 
 <u>STAT\*2040</u>
 - [ ] Chapter 5 📅 Sunday October 18th

@@ -7,10 +7,10 @@
 - They both distinguish reality from our judgements about reality- take the golden mountain for example
 
 <u>Differences:</u>
-- They disagree on what the meaning of happiness is, Epictetus thinks happiness comes from peace and mental tranquility whereas Estell believes it comes from self esteem and the pursuit of knowledge, and by fulfilling our moral duties to God
-- When it comes to reason, Epictetus believes that we should assess what's within our power, correct our judgements, and then top demanding that the world conform to our wishes.  However with Astell, she believes that we should examine the clarity and truth of ideas, organize arguments, resist prejudice, and limit our beliefs to what we can justify
+- They disagree on what the meaning of happiness is, Epictetus thinks happiness comes from peace and mental tranquillity whereas Estell believes it comes from self esteem and the pursuit of knowledge, and by fulfilling our moral duties to God
+- When it comes to reason, Epictetus believes that we should assess what's within our power, correct our judgements, and then stop demanding that the world conform to our wishes.  However with Astell, she believes that we should examine the clarity and truth of ideas, organize arguments, resist prejudice, and limit our beliefs to what we can justify
 - Epictetus is primarily concerned with how we attach our happiness to external factors and how we judge uncontrollable events incorrectly.  Astell is more concerned with how we make reasoning errors, and how women face social expectations that discourage their rational and intellectual development
-- When it comes to got, Astell is very religious and thus believes we owe a moral duty to god, and that developing and using reason is how we fulfil that moral duty.  Epictetus thinks that the universe is rationally and divinely ordered, and that we should understand our place within that order and accept what we cannot control
+- When it comes to religion and the universe, Astell is very religious and thus believes we owe a moral duty to god, and that developing and using reason is how we fulfil that moral duty.  Epictetus thinks that the universe is rationally and divinely ordered, and that we should understand our place within that order and accept what we cannot control
 
 
 <u>Usefull to Know:</u>
@@ -41,4 +41,8 @@
 	- Rule 6: To judge no further than we perceive, and not to take any thing for truth which we do not evidently know to be so
 		- For example, don't assume alien civilizations are all technologically advanced and will come to invade us arriving in ships
 - Astell's ideal of independence is not merely refusing to care what anyone thinks. It involves cultivating the ability to think clearly, evaluate beliefs for oneself, and pursue moral and intellectual excellence.
-- 
+  
+  <u>Important Examples + Quotes:</u>
+- "no one will harm you without your consent" (#30, p. 107)
+- If you are on a beach collecting shells, and then the captain of the ship announces it is time to set sail, you need to let go of shell collecting and move on
+- If we're tying to figure out the gender of the ghost haunting our house, we should just drop the argument since it's a waste of time
