@@ -4,3 +4,5 @@
 - <u>Conjecture:</u> A statement whose truth value is unknown
 	- To disprove a statement, you need only find one case where the statement is false
 - <u>Proof:</u> We demonstrate a **theorem** or **lemma** is true with a sequence of statements that form an **argument**- a proof
+- <u>Parity:</u> The state of a number being even or odd, if two numbers are both even or both odd, then they have the same parity
+- 

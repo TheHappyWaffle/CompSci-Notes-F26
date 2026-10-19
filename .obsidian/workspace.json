@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "War & Society Week 3 - War in Late Medieval Italy.md",
+                "file": "War & Society/War & Society Week 3 - War in Late Medieval Italy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "War & Society Week 3 - War in Late Medieval Italy"
             }
+          },
+          {
+            "id": "23bcd6438f26f4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Structures I/Weekly Notes/Structures Week 4 - Proofs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structures Week 4 - Proofs"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,35 +246,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "430fa9e874ea1c08",
+  "active": "23bcd6438f26f4d1",
   "lastOpenFiles": [
-    "War & Society Week 2.md",
+    "Discrete Structures I/Weekly Notes/Structures Week 3 - Predicates & Quantifiers.md",
+    "_Tasks/Week 4 - Oct 5 to Oct 11.md",
+    "_Tasks/Week 3 - Sep 28 to Oct 4.md",
+    "War & Society/War & Society Week 2.md",
+    "War & Society/War & Society Week 4 - The Military Revolution.md",
+    "War & Society/War & Society Week 3 - War in Late Medieval Italy.md",
+    "Images",
+    "Images/Pasted image 20261016145902.png",
+    "2026-10-14.md",
     "War & Society Week 2.5 - The Dark Ages.md",
-    "War & Society Week 3 - War in Late Medieval Italy.md",
-    "Pasted image 20261016145902.png",
     "_Tasks/Week 5 - Oct 12 to Oct 18.md",
     "_Tasks/Week 6 - Oct 19 to Oct 25.md",
-    "_Tasks/Week 4 - Oct 5 to Oct 11.md",
     "Statistics I/Stats Week 1 - Intro to Stats.md",
     "Ethics/Epictetus v. Astell.md",
     "Ethics/Ethics Week 4 - Mary Astell (1666 - 1731).md",
     "Ethics/Ethics Week 3 - Epictetus (50-135 A.D.).md",
     "Ethics/Ethics Week 2 - Aristotle continued....md",
     "Discrete Structures I/Individual Definitiions/Laws of Propositional Logic.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 3 - Predicates & Quantifiers.md",
     "Discrete Structures I/Weekly Notes/Structures Week 4 - Proofs.md",
     "Ethics/Goldilocks Formula.md",
     "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
     "Ethics/Ethics Week 2 - Aristotle Continued....md",
-    "2026-10-14.md",
     "Discrete Structures I/Individual Definitiions/Commonly used sets.md",
     "_Tasks/Week 7 - Oct 26 to Nov 1.md",
     "_Tasks/Week 10 - Nov 16 to Nov 22.md",
     "_Tasks/Week 9 - Nov 9 to Nov 15.md",
     "_Tasks/Week 8 - Nov 2 to Nov 8.md",
     "Programming I/How to Program In C 101.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 1 - Intro to Sets.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 2 - Logic Basics.md",
     "Pasted image 20261005143700.png",
     "S=",
     "Programming I/Programming in C",
@@ -270,7 +285,6 @@
     "Tasks",
     "Untitled 8",
     "Untitled 7",
-    "Untitled 6",
-    "Untitled 5"
+    "Untitled 6"
   ]
 }
