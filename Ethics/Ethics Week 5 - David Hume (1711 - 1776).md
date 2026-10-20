@@ -1,0 +1,24 @@
+- <u>Humes Aim:</u> "Nothing is more usual in philosophy, and even in common life, than to talk of the combat of passion and reason, to give the preference to reason, and to assert that men are only so far virtuous as they conform themselves to dictates" (165) 
+	- "I shall endeavour to prove first, that reason alone can never be a motive to any action of the will; and secondly, that it can never oppose passion in the direction of the will" (165)
+	- Hume is a "sentimentalist" and believes we are motivated by our passions, and that we are all guided by our feelings
+	- "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them" (166)
+		- Reason cannot guide passions, and is only there to help facilitate to get what you desire
+- <u>Humes Version of Reason:</u> Math and other abstract sciences exist to compare ideas with one another, however these do not influence our actions
+	- <u>Causal Relations:</u> Allows us to form inferences from cause to effect
+		- For example when you see a red light, you know you need to stop, and when you see a green light, you know you need to go
+	- Reason allows us to determine how best to achieve our goals.  We can calculate and form deductions, can infer certain causes from certain effects
+		- For example, if we're hungry we can determine what type of food would keep us full the longest
+	- But all of these do not provide impulses to act.  We need to care about a given outcome in order to act, reason gives us guidance but only emotion can motivate
+	- If we don't care, then no matter what reason tells us, we will not be moved to act
+- <u>Example:</u>  Tonight I was supposed to go to the gym, however my friends asked me to go out for drinks.  Gym is healthy, and will make me feel good.  Drinks are fun, but I'll feel bad tomorrow
+	- A rationalist (Aristotle, Astell) would say that reason tells me that I should act in the interest of health and well being, so I should listen to reason and go to the gym
+	- Hume on the other hand, says we should follow our passions.  If I care more about the gym and being fit, I should go to the gym.  But if I really want to go out for drinks and I'm ok with skipping the gym, then I should go out for drinks
+- <u>Passions</u> are often seen as irrational impulses that need to be controlled by reason by people like Aristotle and Astell.  They think we should control and regulate our passions because they lead us to danger and irrationality.  For Hume, they are neutral; they aren't rational or irrational, they are just feelings that arise within us, and without them, we wouldn't do anything
+- Unless my passion is founded on false judgements they are never contrary to reason
+	- For example, if I drink beer because I think it will make me immortal, then that's irrational
+	- If passion isn't founded on false judgements, then it is impossible for reason and passion to ever oppose each other
+- Without passions, there's simply no motivation to act
+- Morality influences our actions
+	- Don't steal, don't harm, be respectful, etc.
+		- These rules make us act, or refrain us from acting
+	- "Since morals have an influence on the actions and affections, it follows, that they cannot be derived from reason" (169)
