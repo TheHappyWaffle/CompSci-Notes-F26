@@ -5,7 +5,7 @@
 
 <u>CIS\*1910 Discrete Structures 1</u>
 - [ ] Quiz 8 📅 Tuesday November 17th
-- [ ] Textbook Chapter 10 📅 Sunday November 22nd
+- [ ] Textbook Chapter 9 📅 Sunday November 22nd
 
 <u>STAT\*2040</u>
 - [ ] Chapter 10 📅 Wednesday November 18th
