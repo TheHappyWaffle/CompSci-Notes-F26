@@ -22,3 +22,20 @@
 	- Don't steal, don't harm, be respectful, etc.
 		- These rules make us act, or refrain us from acting
 	- "Since morals have an influence on the actions and affections, it follows, that they cannot be derived from reason" (169)
+- Reason is a 'slave' to the passions
+- Ethics is about action in the world, only passions can motivate action.  Ethics must involve passion otherwise it's causally inert
+- Our distinctions of moral right and wrong lie in our capacity to feel something about the world and the way people act in it
+- But just because we are opposed to something does not make it morally wrong, for example, if I'm scared of bungee jumping that doesn't make it bad, planes are not evil because I'm afraid of flying
+	- Moral good and evil are decided on the basis of "particular pleasures or pains." (174)
+	- Satisfaction or uneasiness arising from the contemplation of an act and the agents character/motives
+		- Our moral sense is the emotive response
+- We react to the motives of perpetrators or the feelings of victims
+	- It's not the action itself, but the "quality of character from which the action proceeded" (174)
+		- For example if you parallel park in the middle of a busy road, we might not consider you evil or bad, just a little but of second hand embarrassment.  However if you consistently park in handicapped spots (without being handicapped) just to get a closer parking spot, then we might consider you morally bad
+- Emotions are contagious because they're a shared human experience
+	- If we see someone crying, we will also feel sad
+	- When I see something that I know will cause certain emotions, I can anticipate and feel those too
+- We have moral feelings about things that happen in the world, such as: concern, benevolence, compassion, sympathy, generosity 
+- We distinguish between good and evil by means of our feelings; what makes an action virtuous or vicious is that we respond to it with a certain feeling
+- But just because we feel good about something doesn't necessarily make something morally good or morally wrong
+	- We need an objective general point of view, one that is unbiased and not self interested

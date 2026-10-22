@@ -1,0 +1,8 @@
+- <u>Even integer:</u> $x = 2k$
+- <u>Odd Integer:</u> $x = 2k + 1$
+- <u>Rational:</u> $r$ is rational $\iff$ $y \neq 0$, and $r = \frac{x}{y}$
+- <u>Divides:</u> $x$ divides $y$ if and only if $x \neq 0$ and $y = kz$, where $k$ is some integer
+	- If $x$ divides $y$, it's denoted as $x | y$ 
+	- If $x$ divides $y$, then $y$ is a multiple of $x$, and $x$ is a factor or divisor of $y$
+- <u>Prime:</u> $x$ is prime $\iff$ $x >1$ and the only positive integers that divide $x$ are 1 and $x$
+- <u>Composite:</u> $x$ is composite $\iff$ $x > 1$ and there is an integer $k$ such that $1 < k < x$ and $k$ divides $x$ 

@@ -1,0 +1,13 @@
+- <u>Function:</u> Let $A$ and $B$ be [[Set]]s, a function from $A$ to $B$ is an assignment of exactly one element of $B$ to each element of $A$
+	- If $f$ is a function from $A$ to $B$ we write $f: A \implies B$, and we say $f$ maps $A$ to $B$
+	- $A$ is the **domain** of $f$ and $B$ is the **co-domain/target**
+	- If $f$ maps an element of the domain to zero elements or more than one element of the target, then $f$ is not **well defined**
+	- A function is **<u>one-to-one/injective</u> if and only if $f(x) = f(y)$, which implies that $x = y$
+		- We call such a function an <u>injection</u>
+	- A function is <u>onto/surjective</u> if and only if for every element in $B$, there is an element in $A$ such that $f(a) = b$
+		- We call such a function a <u>surjection</u>
+	- A function is a <u>one-to-one correspondence/bijection</u> if it's both one-to-one and onto
+- <u>Floor Function:</u> Denoted as $\lfloor x \rfloor$, it is the largest integer value that is less than or equal to $x$
+- <u>Ceiling Function:</u> Denoted as $\lceil x \rceil$, it is the smallest integer value that is grater than or equal to $x$
+- If $a \in A$ and $f(a) = a$, then $f$ is known as the <u>identity function</u>, and it is a bijection
+- <u>Inverse Function:</u> basically reversing the direction of a function, however this only works if the function is a bijection: $f^{-1}(b) = a$ if $f(a) = b$, we call functions that can be inverted **invertible**
