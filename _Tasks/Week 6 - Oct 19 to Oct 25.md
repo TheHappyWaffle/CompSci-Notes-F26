@@ -2,7 +2,7 @@
 - [x] Quiz 6 📅 Tuesday October 20th ✅ 2026-10-22
 - [x] IP Lab 4 📅 Tuesday October 20th ✅ 2026-10-22
 - [ ] Midterm (In-person) 📅 Saturday October 24th
-- [ ] Textbook Chapter 5 (5.7 to End) 📅 Sunday October 25th
+- [x] Textbook Chapter 5 (5.7 to End) 📅 Sunday October 25th ✅ 2026-10-22
 - [ ] DIY Lab 4 📅 Sunday October 25th
 
 <u>CIS\*1910 Discrete Structures 1</u>

@@ -6,3 +6,4 @@
 	- If $x$ divides $y$, then $y$ is a multiple of $x$, and $x$ is a factor or divisor of $y$
 - <u>Prime:</u> $x$ is prime $\iff$ $x >1$ and the only positive integers that divide $x$ are 1 and $x$
 - <u>Composite:</u> $x$ is composite $\iff$ $x > 1$ and there is an integer $k$ such that $1 < k < x$ and $k$ divides $x$ 
+- <u>Perfect Square:</u> $x = k^2$ for some integer $k$

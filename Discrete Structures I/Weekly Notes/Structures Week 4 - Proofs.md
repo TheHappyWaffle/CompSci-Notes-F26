@@ -5,4 +5,5 @@
 	- To disprove a statement, you need only find one case where the statement is false
 - <u>Proof:</u> We demonstrate a **theorem** or **lemma** is true with a sequence of statements that form an **argument**- a proof
 - <u>Parity:</u> The state of a number being even or odd, if two numbers are both even or both odd, then they have the same parity
-- 
+- <u>Proof By Exhaustion:</u> If the domain of a universal statement is small, it might be easier to run through each case of the statement 
+- <u>Proof By Contrapositive:</u> When you flip and negate the statement, then prove that.  For example, given $p \implies q$ your goal would be to prove $\neg q \implies \neg p$

@@ -5,7 +5,7 @@
 - [ ] DIY Lab 5 📅 Sunday November 1st
 
 <u>CIS\*1910 Discrete Structures 1</u>
-- [ ] Quiz 5 📅 Tuesday October 27th 
+- [x] Quiz 5 📅 Tuesday October 27th ✅ 2026-10-22
 - [ ] Textbook Chapter 6 📅 Sunday November 1st
 
 <u>STAT\*2040</u>

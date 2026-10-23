@@ -2,7 +2,7 @@
 	- If $f$ is a function from $A$ to $B$ we write $f: A \implies B$, and we say $f$ maps $A$ to $B$
 	- $A$ is the **domain** of $f$ and $B$ is the **co-domain/target**
 	- If $f$ maps an element of the domain to zero elements or more than one element of the target, then $f$ is not **well defined**
-	- A function is **<u>one-to-one/injective</u> if and only if $f(x) = f(y)$, which implies that $x = y$
+	- A function is <u>one-to-one/injective</u> if and only if $f(x) = f(y)$, which implies that $x = y$
 		- We call such a function an <u>injection</u>
 	- A function is <u>onto/surjective</u> if and only if for every element in $B$, there is an element in $A$ such that $f(a) = b$
 		- We call such a function a <u>surjection</u>
