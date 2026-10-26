@@ -7,3 +7,6 @@
 - <u>Parity:</u> The state of a number being even or odd, if two numbers are both even or both odd, then they have the same parity
 - <u>Proof By Exhaustion:</u> If the domain of a universal statement is small, it might be easier to run through each case of the statement 
 - <u>Proof By Contrapositive:</u> When you flip and negate the statement, then prove that.  For example, given $p \implies q$ your goal would be to prove $\neg q \implies \neg p$
+- <u>Proof by Contradiction:</u> When you prove the opposite of a statement, for example, 
+  given $p \implies q$ your goal would be to prove $\neg p \implies \neg q$
+- <u>Proof by Cases:</u> Diving the domain of a proposition into separate smaller domains.   For example given "$x^2$ is even" it might be easier to prove it once for if $x$ is odd and once more for if $x$ is even.  The same test can be included in multiple cases so long as every possible domain is accounted for.
