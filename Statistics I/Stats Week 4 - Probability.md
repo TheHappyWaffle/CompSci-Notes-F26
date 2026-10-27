@@ -1,13 +1,23 @@
-- <u>Sample Space:</u> The set of all possible outcomes of an experiment 
-	- All sample points on the sample space must form a [[Partition]] of the trial
-	- <u>Discrete Sample Space:</u> Every outcome is countable (like coin flips, or die rolls)
-	- <u>Continuous Sample Space:</u> Outcomes for a continuum (like every possible value of a persons height)
-- <u>Sample Point:</u> An individual outcome in the sample space 
-- <u>Event:</u> An event is a [[Subset]] of the sample space, often represented by capital letters.  
-- <u>Rules of Probability:</u>
-	- Every probability must be between 0 and 1; $0\leq P(A)\leq1$
-	- Something in the sample space must happen every trial; $P(S)=1$
-- <u>Conditional Probability:</u> What is the probability of $A$ given that $B$ has occurred? $\boxed{P(A\mid B)}$
-	- Read as "probability of $A$ given $B$"
-- <u>Independent Events:</u> The occurrence of one event does not affect the probability of the other $\boxed{P(A\cap B)=P(A)P(B)}$
-  	
+- <u>Frequentest Probability:</u> The probability of an outcome is the proportion of times that outcome would occur in an infinite series of trials
+- <u>Bayesian Probability:</u> how likely an outcome is, given the current state of knowledge
+- <u>Without Replacement:</u> For example, if you draw balls out of a bag without replacement means you do not replace balls already drawn
+- <u>Sample Space (S):</u> The [[Set]] of all possible outcomes of an experiment
+	- The individual outcomes of a sample space are called <u>Sample Points</u>
+	- A discrete sample space is when every sample point is countable
+	- A continuous sample space is when a sample space is infinite
+- <u>Mutually Exclusive:</u> No two sample points can occur on the same trial of an experiment
+	- Events that have no sample points in common are mutually exclusive/disjoint
+- <u>Collectively Exhaustive:</u> The collection of sample points must contain every possible outcome
+- <u>Event:</u> A [[Subset]] of a sample space, containing a collection of sample points from it.  Usually represented with capital letter
+- <u>Rules of Probability:</u> Concepts & Rules that apply to *every* sample space
+	- For any event $A$,  $0 \leq P(A) \leq 1$ 
+	- For any sample space $S$,  $P(S) = 1$ meaning on any trial the outcome will be one of the sample points in the sample space
+- <u>Intersection:</u> $A \cap B$ is the event that both $A$ *and* $B$  occur
+- <u>Union:</u> $A \cup B$ is the event that either $A$ or $B$ occur, often used in [[Set Operations]]
+	- The probability that $A \cup B$ occurs is $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
+- <u>Complement:</u> $\overline{A}$ is the event that $A$ does **not** occur.  $\overline{A}$ is the set of all sample points not present within $A$
+- <u>Conditional Probability:</u> $P(A | B)$ is the probability of A given B having occurred: $$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
+- <u>Independant Events:</u> The occurrence of one event does not affect the other meaning the probability of both occurring can be expressed as $\boxed{P(A \cap B) = P(A) \times P(B)}$
+- <u>Multiplication Rule:</u> $$P(A \cap B) = P(A) \times P(B|A) \times P(A \cap B) = P(B) \times P(A|B)$$
+  Or for 3 events: $$P(A \cap B \cap C) = P(A) \times P(B|A) \times P(C|A \cap B)$$
+- <u>Bayes' Theorem:</u> Used to update the probability of an event based on new information:$$P(B|A) = \frac{P(B) \times P(A|B)}{P(A)}$$

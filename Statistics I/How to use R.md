@@ -1,0 +1,13 @@
+- Assign a variable: name <- value
+	- value can be a word or a number
+- Vector: name <- c(1,2,3,4)
+- Useful calculations:
+	- Standard Deviation: sd()
+	- Variance: var()
+	- Mean: mean()
+	- Median: median()
+	- Mode: mode()
+	- Mean Absolute Deviation: mean(abs(x - mean(x))), where x is a list of data
+	- Z-Scores: scale()
+	- Percentile: quantile(x, n), where x is the set of data and n is the percentile we want to find (for example, the 80th percentile would be n = 0.8)
+	- Quartile: quantile()
