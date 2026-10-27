@@ -8,6 +8,6 @@
 - [ ] Textbook Chapter 9 📅 Sunday November 22nd
 
 <u>STAT\*2040</u>
-- [ ] Chapter 10 📅 Wednesday November 18th
+- [ ] Chapter 11 📅 Wednesday November 18th
 - [ ] Test 3 📅 Wednesday November 18th @ 4pm - 8pm
 

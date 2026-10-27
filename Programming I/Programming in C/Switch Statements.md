@@ -1,3 +1,5 @@
+Switch statements work like a chain of if else statements, as seen below:
+
 Assuming 'a' was an integer, a switch statement would look like this:
 ```
 switch (a) {

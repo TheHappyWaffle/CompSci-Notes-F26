@@ -1,9 +1,9 @@
 <u>CIS\*1300 Programming:</u>
 - [x] Quiz 6 📅 Tuesday October 20th ✅ 2026-10-22
 - [x] IP Lab 4 📅 Tuesday October 20th ✅ 2026-10-22
-- [ ] Midterm (In-person) 📅 Saturday October 24th
+- [x] Midterm (In-person) 📅 Saturday October 24th ✅ 2026-10-27
 - [x] Textbook Chapter 5 (5.7 to End) 📅 Sunday October 25th ✅ 2026-10-22
-- [ ] DIY Lab 4 📅 Sunday October 25th
+- [x] DIY Lab 4 📅 Sunday October 25th ✅ 2026-10-27
 
 <u>CIS\*1910 Discrete Structures 1</u>
 - [x] Assignment 2 📅 Monday October 19th ✅ 2026-10-19

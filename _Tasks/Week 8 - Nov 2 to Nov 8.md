@@ -13,4 +13,4 @@
 - [ ] Test 3 📅 Tuesday November 3rd
 
 <u>STAT\*2040</u>
-- [ ] Chapter 8 📅 Sunday November 8th
+- [ ] Chapter 9 📅 Sunday November 8th

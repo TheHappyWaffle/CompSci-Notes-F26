@@ -1,0 +1,14 @@
+- `printf("text");` prints a line to the console
+	- adding `"\n"` anywhere inside of the next puts everything after on a new line
+- `scanf("%", &variable);` allows for input, assigning the input to the variable
+- For both print and scan, you can put a percentage with a letter after it depending on the type of variable you are assigning:
+	- %d = integers
+	- %u = unsigned integers (non-negative whole numbers only)
+	- %f = floats
+	- %lf = doubles (more precise version of floats)
+	- %c = char
+	- %s = string
+	- %p = pointer
+	- Bools:
+		- Using "%s" outputs the bool as a string
+		- Using "%d" outputs the bool as either a 1 or 0, for true and false respectively

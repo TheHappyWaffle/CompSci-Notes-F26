@@ -12,4 +12,4 @@
 - [ ] Written Assessment 📅 Wednesday November 11th
 
 <u>STAT\*2040</u>
-- [ ] Chapter 9 📅 Sunday November 15th
+- [ ] Chapter 10 📅 Sunday November 15th

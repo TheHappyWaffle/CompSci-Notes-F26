@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f98fdfb0b9cf93ed",
+            "id": "decd5b97f96bec69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics I/Stats Week 3 - Descriptive Statistics.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stats Week 3 - Descriptive Statistics"
-            }
-          },
-          {
-            "id": "1b8b296b4ac4c8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics I/Stats Week 3 - Descriptive Statistics.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stats Week 3 - Descriptive Statistics"
-            }
-          },
-          {
-            "id": "b90b4ac82e197764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics I/Stats Week 4 - Probability.md",
+                "file": "Ethics/Ethics Week 6 - Sophie de Grouchy (1764 - 1822).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats Week 4 - Probability"
+              "title": "Ethics Week 6 - Sophie de Grouchy (1764 - 1822)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "328c08b35e050386",
@@ -219,36 +189,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "b90b4ac82e197764",
+  "active": "decd5b97f96bec69",
   "lastOpenFiles": [
-    "Statistics I/Stats Week 3 - Descriptive Statistics.md",
-    "Statistics I/Stats Week 4 - Probability.md",
-    "Statistics I/Stats Week 4 - AI.md",
-    "Statistics I/Stats Week 2 - Sampling & Design.md",
-    "Discrete Structures I/Individual Definitiions/Set Identities.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 3 - Predicates & Quantifiers.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 4 - Proofs.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 6 - Functions.md",
-    "Statistics I/How to use R.md",
-    "Statistics I/Stats Week 1 - Intro to Stats.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "_Tasks/Week 7 - Oct 26 to Nov 1.md",
+    "Ethics/Ethics Week 5 - David Hume (1711 - 1776).md",
+    "Ethics/Ethics Week 6 - Sophie de Grouchy (1764 - 1822).md",
+    "Ethics/Ethics Week 3 - Epictetus (50-135 A.D.).md",
     "_Tasks/Week 8 - Nov 2 to Nov 8.md",
-    "_Tasks/Week 6 - Oct 19 to Oct 25.md",
-    "_Tasks/Week 4 - Oct 5 to Oct 11.md",
-    "_Tasks/Week 5 - Oct 12 to Oct 18.md",
-    "_Tasks/Week 1 - Sep 14 to Sep 20.md",
-    "_Tasks/Week 2 - Sep 21 to Sep 27.md",
-    "_Tasks/Week 3 - Sep 28 to Oct 4.md",
-    "Discrete Structures I/Individual Definitiions/Set.md",
-    "Discrete Structures I/Individual Definitiions/Laws of Propositional Logic.md",
-    "Discrete Structures I/Individual Definitiions/Set Operations.md",
-    "Discrete Structures I/Individual Definitiions/Common Proofs.md",
+    "_Tasks/Week 7 - Oct 26 to Nov 1.md",
+    "_Tasks/Week 9 - Nov 9 to Nov 15.md",
+    "_Tasks/Week 10 - Nov 16 to Nov 22.md",
     "_Tasks/Week 11 - Nov 23 to Nov 29.md",
     "_Tasks/Week 12 - Nov 30 to Dec 6.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 1 - Intro to Sets.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 2 - Logic Basics.md",
+    "Ethics/Ethics Week 4 - Mary Astell (1666 - 1731).md",
+    "Ethics/Ethics Week 2 - Aristotle Continued....md",
+    "Ethics/Ethics Week 1 - Aristotle (384-322 B.C.).md",
+    "_Tasks/Week 6 - Oct 19 to Oct 25.md",
+    "Statistics I/How to use R.md",
+    "Statistics I/Stats Week 3 - Descriptive Statistics.md",
+    "Statistics I/Stats Week 2 - Sampling & Design.md",
+    "Statistics I/Stats Week 1 - Intro to Stats.md",
+    "Programming I/Programming in C/Arrays.md",
+    "Discrete Structures I/Individual Definitiions/Set.md",
+    "Programming I/Programming in C/Input & Output.md",
+    "Programming I/Programming in C/If Statements.md",
+    "Programming I/Programming in C/Functions.md",
+    "Programming I/Linux SSH.md",
+    "Programming I/Programming in C/Pointers.md",
+    "Programming I/How to Program In C 101.md",
+    "Programming I/Programming in C/Preprocessing.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "Images",
     "Images/Pasted image 20261016145902.png",
     "Pasted image 20261005143700.png",

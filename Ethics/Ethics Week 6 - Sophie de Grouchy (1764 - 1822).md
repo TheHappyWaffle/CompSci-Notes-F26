@@ -1,0 +1,27 @@
+- Practiced philosophy before, during, and after the French revolution causing a lot of her work to be very political
+- Her main work was "The Origins of Sympathy" which discussed sensibility (pleasure and pain)
+- Moral judgements arise from sympathy
+- <u>Sympathy:</u> "The disposition we have to feel as others do" (1)
+- Reason aids us in expressing and directing our sympathy properly
+	- So we must develop our reasoning so we can make appropriate expressions of sympathy
+- Everyone has the capacity for sympathy but many people do not attend to it properly or have not had the proper education in order to express it properly
+	- This has led to many social problems such as inequality and general insensitivity to the suffering of others
+- She wants to identify what sympathy is, how it arises in us, and how to train out selves to sympathy effectively
+- We derive pleasure from seeing others happy, and pain from seeing others in pain
+	- It is human nature to be social, and to care about other people
+	- Us being sympathetic is the basis for moral approval or disapproval
+- While yes, everyone has sympathy, we need to understand its origins to understand it properly
+	- Sophie believes it's grounded in our sensibility (our capacity for pleasure and pain)
+- Sophie's aims are social good, morality, and economic reform
+- Sophie focuses especially on how inequality, hierarchies, and political elitism can inhibit or corrupt our capacity for sympathy 
+	- This is why she believes children must be educated about sympathy since if you don't take the time to get them to engage with their sympathy, when they go out into the world they will be tempted by desires for economic success and overtime they will value wealth more than the well being of others 
+- "Fathers, mothers, teachers, the destiny of the next generation is almost in your hands! Ah! How guilty you are if you allow to wither away in your children these precious seeds of sensibility that need nothing more to develop than the sight of suffering, the example of compassion, tears of recognition, and an enlightened hand that warms and stirs them!" (3)
+- Sympathy is the glue that holds society together
+	- And the lack thereof is what allows for social inequality like homelessness and famine
+- The pain I feel in social injustice has its roots in the same pain I have from physical afflictions
+	- So let's look here to begin our account of sympathy
+	- Think of a broken bone for example, the pain goes away eventually however the memory of that pain is always there.  You can remember how painful it was and begin to feel a sensation of pain or discomfort
+- Pain is a compound sensation, consisting of the pain felt in the moment and the impressions/memories of that pain
+	- The memory of our own pain allows us to infer what pain feels like to other people
+- Children who feel pain or witness it in others have very strong reactions, since they feel pain acutely and have very active imaginations
+	- "Witnessing pain can affect the child to the point where he cries out and flees the scene" (2)

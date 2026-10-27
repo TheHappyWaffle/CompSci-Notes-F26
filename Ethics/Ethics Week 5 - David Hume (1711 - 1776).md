@@ -39,3 +39,5 @@
 - We distinguish between good and evil by means of our feelings; what makes an action virtuous or vicious is that we respond to it with a certain feeling
 - But just because we feel good about something doesn't necessarily make something morally good or morally wrong
 	- We need an objective general point of view, one that is unbiased and not self interested
+
+# GO BACK AND LOOK AT KEY TERMS
