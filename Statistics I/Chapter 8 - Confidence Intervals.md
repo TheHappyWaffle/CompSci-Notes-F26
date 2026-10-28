@@ -1,0 +1,4 @@
+- <u>Point Estimate:</u> A single value that estimates a parameter, it needs to be attached with a measure of uncertainty
+- If $σ$ is known, a $(1-σ) 100\%$ confidence interval for $\mu$ is given by:$$\bar X \pm z_{a/2}σ_\bar X$$Where $z_{a/2}$ is the value of a standard normal random variable such that the area to the right of $z_{a/2}$ is $a/2$ 
+- The standard deviation of the sampling distribution of $\bar X$ is $$σ_\bar X = \frac{σ}{\sqrt{n}}$$
+- If $σ$ is unknown, and must be estimated by sample standard deviation, we use methods based on the $t$ distribution.  A $(1-σ) 100\%$ confidence interval for $\mu$ is given by: $$\bar{X} \pm t_{\alpha/2} \mathrm{SE}(\bar{X})$$Where $\boxed{\mathrm{SE}(\bar{X}) = \frac{s}{\sqrt{n}}}$ is the standard error of $\bar X$.  The $t_{a/2}$ value is found from the $t$ distribution, with $n-1$ degrees of freedom

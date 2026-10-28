@@ -8,4 +8,4 @@
 - [x] Test 2 📅 Thursday October 15th ✅ 2026-10-16
 
 <u>STAT\*2040</u>
-- [ ] Chapter 5 📅 Sunday October 18th
+- [x] Chapter 5 📅 Sunday October 18th ✅ 2026-10-27

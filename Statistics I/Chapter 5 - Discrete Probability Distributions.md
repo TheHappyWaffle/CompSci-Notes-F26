@@ -1,0 +1,19 @@
+- <u>Random Variable:</u> A quantitative (numerical) variable whose observed value is at least partly due to chance.  Typically presented by capital letters towards the end of the alphabet, and they can either be discrete or continuous
+	- The random variable then switched to be lowercase when it becomes "realised" or observed in real life
+	- The expected value of a random variable is the theoretical mean of its probability distribution, expressed as follows, where $\mu$ represents the mean: $$\mu x = \sum_{\text{all } x} x \ p(x)$$
+	- We can use a similar equation to find the variance of the random variable: $$Var(X) = E((X - \mu)^2) = \sum_{\text{all } x } (x - \mu)^2 \ p(x)$$
+	- A helpful identity: $$E((X - \mu)^2) = E(X^2) - (E(X))^2$$
+- <u>Probability Mass Function (PMF):</u> Used on a discrete random variable $X$, it returns the probabilities of occurrence of the possible values of $X$
+	- In order to be a valid probability distribution, all probabilities must lie between 0 and 1 and must all sum up to 1
+- <u>Cumulative Distribution Function:</u> Denoted by $F(x)$, it's defined to be $F(x) = P(X \leq x)$ for $-\infty < x < \infty$
+- For constants $a$ and $b$: $$\mathrm{E}(a + bX) = a + b\mathrm{E}(X)$, $\mathrm{Var}(a + bX) = b^2\mathrm{Var}(X)$$$$\mathrm{SD}(a + bX) = |b|\mathrm{SD}(X)$$
+- If there are two random variables, then $$\mathrm{E}(X + Y) = \mathrm{E}(X) + \mathrm{E}(Y)$$ and $$\mathrm{E}(X - Y) = \mathrm{E}(X) - \mathrm{E}(Y)$$
+	- $X$ and $Y$ are independent if knowing the value of one variable gives no information about the other
+	- If $X$ and $Y$ are independent, then $$\mathrm{Var}(X + Y) = \mathrm{Var}(X) + \mathrm{Var}(Y)$$ and $$\mathrm{Var}(X - Y) = \mathrm{Var}(X) + \mathrm{Var}(Y)$$
+- <u>Discrete Uniform Distribution:</u> If $X$ can take on $k$ distinct values with all being equally likely (each value has probability $\frac{1}{k}$)
+- <u>Binomial Distribution:</u> The number of successes in $n$ trials where each trials outcome can only be a success or a failure.  There are $n$ independent trials if there are a fixed amount of trials, each trial results in one of two outcomes, and on each trial $P(Success) = p$, $P(Failure) = 1 - p$
+- Let $X$ be the number of successes in a trial, then $X$ is a binomial random variable with the PMF: $$P(X = x) = \binom{n}{x} p^x (1 - p)^{n-x} \quad \text{for } x = 0, 1, \dots, n$$
+- <u>Hypergeometric Distribution:</u> Similar to the binomial distribution, this arises when sampling $n$ objects *without replacement* from a source that contains $M$ successes and $N − M$ failures, where $X$ has the PMF: $$P(X = x) = \frac{\binom{M}{x}\binom{N-M}{n-x}}{\binom{N}{n}}, \text{ for } x = \max(0, n + M - N), \dots, \min(M, n).$$ If the sampling was done *with* replacement then the binomial distribution would be correct
+- <u>Poisson Distribution:</u> Measures the number of occurrences of an event in a unit of time, distance, area, or volume.  If $X$ is the number of occurrences, then it has the PMF: $$P(X = x) = \frac{\lambda^x e^{-\lambda}}{x!} \quad \text{for } x = 0, 1, \dots$$<u>Geometric Distribution:</u> The number of trials needed to get the first success.  With the PMF: $$P(X = x) = p(1 - p)^{x-1} \quad \text{for } x = 1, 2, \dots$$
+- <u>Negative Binomial Distribution:</u> Arises when there is a series of independent trials and we are interested in the probability that the $r$th success occurs on the $x$th trial.  The PMF is: $$P(X = x) = \binom{x-1}{r-1} p^r (1 - p)^{x-r} \quad \text{for } x = r, r + 1, \dots$$
+- <u>Multinomial Distribution:</u> Similar to the Binomial distribution, however this is used when trials have $k$ possible outcomes, with the PMF: $$P(X_1 = x_1, X_2 = x_2, \dots, X_k = x_k) = \frac{n!}{x_1! x_2! \dots x_k!} p_1^{x_1} p_2^{x_2} \dots p_k^{x_k}$$

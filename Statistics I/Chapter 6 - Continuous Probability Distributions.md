@@ -1,0 +1,4 @@
+- <u>Continuous Random Variable:</u> Can take on an infinite number of values, corresponding to all values in one or more intervals, modelled with a curve.
+- <u>Probability Density Function (PDF):</u> The function $f(x)$ that measures a continuous random variable
+	- The probability that $X$ takes on between $a$ and $b$ is the area under the curve between $a$ and $b$, found by integration: $$P(a \le X \le b) = \int_{a}^{b} f(x) \, dx$$The area under the curve is always equal to 1, and the curve can never dip below the x-axis
+- <u>Normal Distribution:</u> $$f(x) = \frac{1}{\sqrt{2\pi}\sigma} e^{-\frac{1}{2\sigma^2}(x-\mu)^2} \quad \text{for } -\infty < x < \infty$$It has two parameters, the mean ($\mu$) and the standard deviation ($σ$)
