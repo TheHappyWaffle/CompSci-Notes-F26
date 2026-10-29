@@ -1,3 +1,0 @@
-- <u>Sequences:</u> Sequences can be infinite or finite, usually defined by an explicit formula which shows how each term $a_n$ depends on it's index $n$
-- <u>Arithmetic Progression:</u> A sequence of the form: $a+d, a+2d, a+3d, a+4d,$ etc.
-- <u>Geometric Progression:</u> A sequence of the form: $a+r, a+2r, a+3r, a+4r,$ etc. where $a$ and $r$ (the common ratio) are real numbers

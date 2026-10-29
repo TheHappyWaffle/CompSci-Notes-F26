@@ -9,6 +9,6 @@
 - [ ] Textbook Chapter 6 📅 Sunday November 1st
 
 <u>STAT\*2040</u>
-- [ ] Chapter 7 + 8 📅 Monday October 26th
-- [ ] Test 2 📅 Wednesday October 28th @ 4pm - 8pm
+- [x] Chapter 7 + 8 📅 Monday October 26th ✅ 2026-10-29
+- [x] Test 2 📅 Wednesday October 28th @ 4pm - 8pm ✅ 2026-10-29
 

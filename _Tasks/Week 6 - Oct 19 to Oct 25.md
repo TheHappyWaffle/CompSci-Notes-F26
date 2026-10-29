@@ -14,4 +14,4 @@
 - [x] Midterm 📅 Wednesday October 21st ✅ 2026-10-22
 
 <u>STAT\*2040</u>
-- [ ] Chapter 6 📅 Sunday October 25th
+- [x] Chapter 6 📅 Sunday October 25th ✅ 2026-10-29
