@@ -25,3 +25,10 @@
 	- The memory of our own pain allows us to infer what pain feels like to other people
 - Children who feel pain or witness it in others have very strong reactions, since they feel pain acutely and have very active imaginations
 	- "Witnessing pain can affect the child to the point where he cries out and flees the scene" (2)
+- We must feel, and not to bury or ignore our sensibilities.  Because sympathy takes us out of ourselves, makes us care about other people, and connects us to our society.
+	- <u>This is what in means to be human, and what it means to be happy</u>
+	- Perfecting this part of us defines our nature as human beings
+- "Happiness does not sacrifice anyone else's happiness and tends towards the good of all" (3)
+- Alleviating someone else's pain feels good.  It makes us happy and we are freed from the idea of that person's suffering
+	- The feeling of goodness attaches to memories of having helped someone else
+	- Not a momentary feeling (like holding a door for someone), but the memory of acting well

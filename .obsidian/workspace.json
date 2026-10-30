@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming I/Programming in C/Functions.md",
-                "mode": "preview",
+                "file": "Ethics/Ethics Week 6 - Sophie de Grouchy (1764 - 1822).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functions"
+              "title": "Ethics Week 6 - Sophie de Grouchy (1764 - 1822)"
             }
           }
         ]
@@ -189,11 +189,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b90b4ac82e197764",
+  "active": "f1e9e2813749f8ba",
   "lastOpenFiles": [
+    "Images/Pasted image 20261016145902.png",
+    "Ethics/Ethics Week 6 - Sophie de Grouchy (1764 - 1822).md",
+    "Ethics/Goldilocks Formula.md",
+    "Discrete Structures I/Weekly Notes/Structures Week 7 - Sequences & Sums.md",
+    "Programming I/Programming in C/Functions.md",
     "Programming I/Programming in C/If Statements.md",
     "Programming I/Programming in C/Arrays.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 7 - Sequences & Sums.md",
     "Discrete Structures I/Individual Definitiions/Set Operations.md",
     "Discrete Structures I/Individual Definitiions/Subset.md",
     "_Tasks/Week 8 - Nov 2 to Nov 8.md",
@@ -209,18 +213,13 @@
     "Statistics I/Chapter 2 - Sampling & Design.md",
     "Statistics I/Chapter 1 - Intro to Stats.md",
     "_Tasks/Week 4 - Oct 5 to Oct 11.md",
-    "Ethics/Ethics Week 6 - Sophie de Grouchy (1764 - 1822).md",
     "Programming I/Programming in C/Preprocessing.md",
     "Programming I/Programming in C/Input & Output.md",
     "Programming I/Programming in C/Enumerators.md",
     "Statistics I/Stats Week 4 - AI.md",
-    "Discrete Structures I/Individual Definitiions/Set Identities.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 3 - Predicates & Quantifiers.md",
-    "Discrete Structures I/Weekly Notes/Structures Week 4 - Proofs.md",
     "Untitled.base",
     "Untitled 1.base",
     "Images",
-    "Images/Pasted image 20261016145902.png",
     "Pasted image 20261005143700.png",
     "S=",
     "Programming I/Programming in C",
